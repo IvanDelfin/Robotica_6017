@@ -4,7 +4,6 @@ import seaborn as sb
 import pandas as pd
 import numpy as np
 import time
-import math
 
 def obtencion_de_datos():
     dfScouting = pd.read_csv("ScoutingVenturaTest.csv")
@@ -93,13 +92,17 @@ def tabla_de_promedios(dfScouting):
     df_mean_all.sort_values("Score_ind_comp", ascending=False).to_csv("Promedios_Equipos.csv", index=False, encoding= 'utf-8-sig')
     return df_mean_all
     
-def creacion_de_graficas(dfMeanAll):
+def creacion_de_graficas(dfMeanAll, ShowGraf):
     plt.figure(figsize=(25,25))
     sb.heatmap(dfMeanAll.corr(), annot=True)
+    if ShowGraf:
+        mp.show()
     plt.savefig("Graficas de Estadistica/Correlacion_promedio.png")
     
     plt.figure(figsize=(15,10))
     sb.violinplot(dfMeanAll[["Teleop Cubos [TOCubo3]", "Teleop Cubos [TOCubo2]", "Teleop Cubos [TOCubo1]", "Teleop Conos [TOCono1]", "Teleop Conos [TOCono2]", "Teleop Conos [TOCono3]"]])
+    if ShowGraf:
+        mp.show()
     plt.savefig("Graficas de Estadistica/violin_promedio_grid_teleop.png")
     
 #Main
@@ -130,11 +133,11 @@ while (not ((a == 'S') | (a == 's'))):
     elif (((a == 'P') | (a == 'P'))):
         tabla_de_promedios(df_final)
     elif (((a == 'G') | (a == 'G'))):
-        creacion_de_graficas(tabla_de_promedios(df_final))
+        creacion_de_graficas(tabla_de_promedios(df_final), True)
     elif (((a == 'T') | (a == 't'))):
         tabla_por_match(df_final)
         dfMean = tabla_de_promedios(df_final)
-        creacion_de_graficas(dfMean)
+        creacion_de_graficas(dfMean, False)
     elif (((a == 'S') | (a == 's'))):
         print(f"Gracias por usar el programa de limpieza de datos\nNos vemos y recuerda que eres una persona increibla :D")
         time.sleep(3)
