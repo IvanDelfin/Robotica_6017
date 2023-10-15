@@ -1,0 +1,323 @@
+Marca temporal,Scouter ,Match,Team,Cubes [Lvl 1],Cubes [Lvl 2],Cubes [Lvl 3],Cones [Lvl 1],Cones [Lvl 2],Cones [Lvl 3],Mobility,Docked (In CS not balanced),Engaged (Balanced),Aditional auto comments,Cubes [Lvl 1],Cubes [Lvl 2],Cubes [Lvl 3],Cones [Lvl 1],Cones [Lvl 2],Cones [Lvl 3],Park,Docked (Is CS not balanced),Engaged (Balanced),Double balance,Triple balance,Disconnection time +- (sec),Agressiveness,Foul and cards comments,"Any additional comments (Did the robot play good defense, did it fall or make oyher robot fall, did it changed any links, did smth very stupid or very smart, etc)"
+24/03/2023 8:29:46,Josué,4,93,0,0,0,0,0,1,1,0,0,,0,0,1,2,0,1,1,0,0,0,0,0,1,,"NT 2512, Le cuesta colocar los conos en el top row y terminaron cayendo en la bottom, movimiento algo lento, le cuesta un poco agarrar las piezas, overall promising safe robot"
+24/03/2023 9:38:42,Josué,13,93,0,0,1,0,0,0,0,0,1,,0,1,0,1,2,2,0,0,1,1,0,0,1,,"Clean movement, not the fastest but solid speed, buena coordinacion operator driver, aunque parece que solo pueden agarrar game pieces de la loading zone donde están las bandejas, casi tiran a su compañero en la charging station algo que no les permitió conseguir el triple engage"
+24/03/2023 12:30:03,Delfin,29,93,0,0,1,0,0,0,1,0,0,,0,0,0,0,2,2,1,1,1,0,1,0,2,,Muy buen robot para nivel 3 y va a hacer una buena opción
+24/03/2023 12:32:23,Pao,29,93,0,0,0,0,0,1,1,0,0,,0,0,0,0,2,1,1,0,1,0,1,0,1,,
+24/03/2023 13:19:17,Erick,35,93,0,0,1,0,0,0,1,0,0,,2,0,0,3,0,0,0,0,1,1,0,0,3,,
+24/03/2023 14:10:09,Delfin,41,93,1,0,0,0,0,0,0,1,1,,0,0,0,3,0,1,1,1,1,0,1,0,1,,"lento, se mueve bien pero hay mejores"
+24/03/2023 16:42:07,Delfin,62,93,1,0,1,0,0,0,1,0,0,avienta cubo,0,1,0,0,2,2,1,0,0,0,0,0,2,,ponen buen conos
+24/03/2023 9:31:51,Josué,12,537,0,1,0,0,0,0,0,0,1,,2,2,1,0,0,0,0,0,1,1,0,0,1,,"Son algo lentos, solo pueden agarrar cubos, pueden poner los cubos en el top row pero les cuesta un poco acomodarse para que no caigan, se pusieron nerviosos en una parte que les jugaron defenza y se chocaron con la charging station haciendo que se les saliera un cubo del intake"
+24/03/2023 12:31:16,Pao,29,537,1,0,0,0,0,0,1,1,0,,4,0,1,0,0,0,1,0,1,0,1,1,1,,
+24/03/2023 13:39:37,Delfin,37,537,0,0,1,0,0,0,1,0,0,,3,1,1,0,0,0,1,1,1,0,1,0,3,,"Chocó muchas veces con partes de la cancha, siento que se puede romper rapidamente"
+24/03/2023 15:24:18,Clarisa,50,537,1,0,0,0,0,0,1,0,0,Salio del comunity,6,0,0,3,0,0,0,0,1,0,1,0,3,,Es rapidísimo pero por lo mismo es un poco impreciso y choca mucho no intencionalmente (pared etc)
+24/03/2023 16:02:51,Delfin,56,537,0,0,0,0,0,0,0,0,0,,4,3,1,1,0,0,1,1,1,1,0,0,2,,Pone cubos hasta eso muy bien y los agarra del piso
+24/03/2023 16:11:21,Pao,56,537,0,0,0,0,0,0,0,0,0,Solo movió la garra sin dejar nada ,5,0,0,1,0,0,0,0,1,1,0,8,1,,Tiene el brazo para jugar en todo los niveles pero se les complica mucho por eso juegan casi todo en level 1
+24/03/2023 17:22:31,Humberto,67,537,0,1,0,0,0,0,0,0,1,,3,1,0,2,0,0,0,0,1,1,0,0,1,,
+24/03/2023 8:44:59,Delfin,6,706,0,0,0,0,0,0,0,1,0,,0,0,0,0,0,4,0,0,0,0,0,0,1,,Se tiro de un lado del CS
+24/03/2023 9:46:46,Delfin,14,706,0,0,0,0,0,1,0,0,0,,0,0,2,0,0,3,1,1,1,1,0,0,1,,Hace su trabajo bien
+24/03/2023 10:59:58,Erick,24,706,0,0,0,0,0,1,1,0,1,,0,0,3,0,0,0,0,1,0,0,0,0,1,,
+24/03/2023 12:29:58,Erick,29,706,0,0,0,0,0,0,1,0,0,,0,0,0,2,2,1,0,0,1,0,0,0,1,,
+24/03/2023 13:12:01,Mentor Wisconsin,34,706,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,2,0,0,1,0,1,12,1,,
+24/03/2023 15:42:28,Humberto,53,706,0,0,1,0,0,0,1,0,0,,0,0,1,0,0,3,0,0,1,1,0,0,2,,
+24/03/2023 16:47:59,Delfin,63,706,0,0,0,0,0,1,1,0,0,,0,1,1,0,0,3,1,1,1,0,1,0,2,,Es buena opción pero hay mejores
+24/03/2023 10:54:10,Delfin,23,930,0,0,1,0,0,1,1,0,0,,0,0,1,1,1,4,1,0,0,0,0,0,2,,"Bune movimiento y un sistema de conos para el nivel 3 muy rapido, pone conos muy chido"
+24/03/2023 12:22:29,Mentor Wisconsin,28,930,0,0,0,0,0,1,1,1,0,,0,1,1,0,0,4,0,0,1,0,1,0,1,,Muy rápido y eficiente 
+24/03/2023 13:08:16,Pao,33,930,0,0,0,0,0,1,1,0,0,It is designed to put 3 game pieces in level 3 but it fails when trying to grab the other 2 cubes or cones ,0,0,1,3,1,2,1,0,0,0,0,1,1,,
+24/03/2023 15:50:16,Clarisa,54,930,0,1,0,0,0,0,1,0,0,Comunity,0,0,0,0,0,3,0,1,0,0,0,0,4,,"Rapidismo y bueno colocando conos pero depende mucho del human player, y no agarra nada del field"
+24/03/2023 16:28:27,Clarisa,60,930,0,0,0,0,0,1,1,1,0,,0,0,2,0,2,3,0,0,1,0,1,0,1,,"Rapidismo y pone cubos y conos tambien rapidisimo, solo depende de su human player. Balancea chido"
+24/03/2023 17:34:44,Delfin,68,930,0,0,0,0,0,1,1,0,0,,1,0,2,0,0,3,1,0,0,0,0,0,4,,Moviéndose sin considerar alianza y tiro a un robot
+24/03/2023 10:00:50,Josué,16,1091,0,0,0,1,0,0,1,0,0,"Trataron de poner cono en top row pero se les cayo al bottom row, clever idea que su bot al final de su autonomo se acerque para meter bien el cono o si no esos puntos no contaban",0,0,0,0,0,0,0,0,0,0,0,0,1,,"El robot se cayó justo al inicio del teleop, no pudieron levantarse"
+24/03/2023 10:46:59,Delfin,21,1091,0,0,0,0,0,0,1,0,0,,0,0,0,2,0,0,1,0,0,0,0,0,1,,"Le falta movimiento y se les caía mucho los cono, cada vez que intentaron poner como en nivel 2 se les caía y se iban, y no pudieron acomodar el cono en un espacio libre de nivel 1"
+24/03/2023 12:14:05,Delfin,27,1091,0,0,0,1,0,0,0,0,0,,1,1,1,0,0,0,1,0,0,0,0,0,1,,"Se movió muy lento, muy pocas piezas"
+24/03/2023 12:58:25,Alex,32,1091,0,0,0,1,0,0,0,0,0,,1,0,0,0,1,0,0,0,0,0,0,0,2,,"Batallan con mantener piezas en el intake. Por propositos de defensa, un golpe semi-duro puede hacer que tiren la pieza que traen"
+24/03/2023 14:53:48,Delfin,46,1091,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1,0,0,0,0,2,"Fouls por contactos en loading zone, muuuchos fouls","intentaron jugar defensa y fallaron espectacular, dando 25 puntos de fouls a la otra alianza"
+24/03/2023 14:56:05,Pao,46,1091,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1,0,0,0,3,2,,The robot got a cone inside them and could no longer grab another piece.  It try to block but it was not so good
+24/03/2023 15:29:22,Delfin,51,1091,0,0,1,0,0,0,0,0,0,,0,0,0,0,1,0,1,1,1,1,0,0,2,,
+24/03/2023 15:29:48,Pao,51,1091,0,0,1,0,0,0,0,0,0,,0,0,0,0,1,0,0,0,1,1,0,3,1,,"Problemas para tomar piezas y se les caen, es tardado "
+24/03/2023 17:22:54,Delfin,67,1091,0,0,1,0,0,0,0,0,0,,0,1,1,0,0,0,1,0,0,0,0,0,1,,"no, por favor no"
+24/03/2023 17:28:43,Pao,67,1091,0,0,1,0,0,0,0,0,0,,1,0,0,0,1,0,1,0,0,0,0,1,1,,
+24/03/2023 10:30:45,Mentor Wisconsin,20,1259,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,3,0,0,1,1,0,0,1,,Inestables. Casi se voltean 2 veces. Uno por cula de ellos mismos y otro por un golpe que le dió otro robot. 
+24/03/2023 12:44:22,Delfin,31,1259,0,0,0,0,0,1,1,0,0,,0,0,0,0,0,0,1,1,1,1,0,0,1,,Fallaron los tiros de cubos y conos
+24/03/2023 13:53:27,Delfin,39,1259,0,0,0,0,0,1,0,0,0,,1,0,1,1,0,1,1,0,0,0,0,0,2,,"Buen robot, pone conos y cubos y se adapta algo"
+24/03/2023 14:59:02,Alex,47,1259,0,0,0,0,1,0,1,0,0,,3,0,0,0,0,0,0,1,1,1,0,43,1,,mucho dc
+24/03/2023 15:36:15,Delfin,52,1259,0,0,0,0,0,1,1,0,0,,1,1,0,0,0,0,1,1,0,0,0,0,2,,
+24/03/2023 8:05:31,Delfin,1,1306,1,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,1,1,1,0,1,0,4,Hubo 10 fouls no se si de su parte o no,
+24/03/2023 9:21:48,Erick,11,1306,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,40,4,,Jugó defensa decente. Se dejó de mover  mitad de match a pesar de estar habilitado.
+24/03/2023 10:45:35,Delfin,21,1306,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,,"Estaban conectados pero no se movieron, no hicieron nada"
+24/03/2023 12:37:05,Delfin,30,1306,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,1,0,0,0,4,1 foul por contacto en loading zone,"super defensivo, golpe a todos los robots, incluyendo de su alianza, el no discrimina"
+24/03/2023 13:54:38,Delfin,39,1306,0,0,0,0,0,0,0,0,0,no tiene,0,0,0,0,0,0,1,1,0,0,0,0,4,,"Buena defensa, se sabe las reglas bien y sabe como contactar a los equipos. A pesar de estar jugando muchísima defensa, no obtuvo ningún foul. Buen 3er pick"
+24/03/2023 15:49:40,Alumno Taller,54,1306,0,0,0,0,0,0,1,0,0,,1,0,0,0,0,0,0,0,1,1,0,0,5,,very defensive
+24/03/2023 8:35:19,Delfin,5,1675,0,0,0,0,0,1,1,0,0,,2,0,0,0,0,0,1,0,0,0,0,0,1,,a mimir el robot
+24/03/2023 9:29:58,Ivanna,12,1675,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,3,1,0,1,0,1,0,1,0,
+24/03/2023 10:17:28,Erick,18,1675,0,0,0,0,0,0,0,0,0,,3,0,0,0,0,0,1,0,0,0,0,0,1,,
+24/03/2023 12:30:22,Delfin,29,1675,0,0,0,0,0,1,1,0,0,,1,2,0,0,0,2,1,1,1,0,1,0,2,,"buen robot, pero algo lento"
+24/03/2023 13:12:54,Delfin,34,1675,0,0,0,0,0,1,1,0,0,,1,0,0,0,2,0,1,0,0,0,0,0,1,,"robot solido, pero hay mejores"
+24/03/2023 14:01:45,Delfin,40,1675,0,0,0,1,0,0,0,0,0,,0,0,0,0,1,2,1,0,0,0,0,0,1,,
+24/03/2023 11:00:46,Delfin,24,1714,0,0,1,0,0,0,0,1,1,,0,0,0,0,0,1,1,1,1,1,0,0,1,,"Problemas la agarrar el cono, no tenia consistencia con eso, se le caian mucho"
+24/03/2023 13:06:52,Delfin,33,1714,0,0,1,0,0,0,0,1,1,,0,0,0,0,2,3,1,1,1,1,0,0,3,,"Ponen muy bien sus piezas e tuvimos buena química en este match, excelente alianza"
+24/03/2023 14:33:50,Delfin,44,1714,0,0,0,0,0,1,1,1,1,,0,0,0,0,0,3,1,1,1,1,0,0,2,,"Se le complica agarrar cubos, no puede"
+24/03/2023 15:56:07,Clarisa,55,1714,0,0,1,0,0,0,1,0,1,,0,0,0,0,0,5,0,0,1,1,0,0,3,,"Hizo mas que pura ofensiva, pone rapidismo los conos pero depende del human player. PARECE que no alcanza el piso. BALANCEO: se balancea muy facilmente"
+24/03/2023 16:28:02,Humberto,60,1714,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,4,0,0,1,0,1,0,2,,Prioridad de conos y 3er nivel. Triple balance rápido
+24/03/2023 9:14:45,Erick,10,1732,0,0,1,0,0,1,1,0,0,,0,0,0,0,2,3,0,0,1,1,0,0,2,,Buen colocador. El driver es un poco inexperimentado. 
+24/03/2023 10:17:11,Delfin,18,1732,0,0,0,0,0,1,0,1,1,,0,0,1,2,0,2,0,0,0,0,0,0,1,,"Impresora 3D. Empezaron mal, pero se empezaron a recuperar"
+24/03/2023 12:07:54,Delfin,26,1732,0,0,1,0,0,1,1,0,0,,1,0,1,1,0,0,1,0,0,0,0,0,2,,"La impresora 3D siendo la impresora 3D, gran movimiento y todo, al último segundo logro poner un cubo final"
+24/03/2023 13:05:08,Mentor Wisconsin,33,1732,0,0,1,0,0,1,0,0,0,,0,0,1,3,0,2,1,0,0,0,0,0,1,,
+24/03/2023 14:16:47,Alex,42,1732,0,0,1,0,0,1,1,0,0,,0,0,1,1,1,3,1,0,0,0,0,0,1,,"Muy buen robot, termino dos links casi solo"
+24/03/2023 15:13:48,Delfin,49,1732,0,0,1,0,0,1,1,0,0,,1,0,2,0,0,3,1,1,1,0,1,0,2,,"Super smooth, wow, 10/10 la impresora 3D"
+24/03/2023 16:08:52,Humberto,57,1732,0,0,1,0,0,1,1,0,0,,2,0,0,1,0,2,0,0,0,0,0,0,2,,
+24/03/2023 17:46:19,Humberto,70,1732,0,0,1,0,0,1,1,0,0,Dos piezas en autónomo,0,0,0,2,0,1,0,0,1,0,1,0,1,,"Es muy bueno, solo un driver, proceso automatizado de scoring. Tal vez metieron más pero no los vi en la cámara."
+24/03/2023 9:09:04,Josué,9,1792,0,0,1,0,0,0,1,0,0,,0,1,0,1,3,0,1,0,0,0,0,0,1,,"Robot lento, tanto movimiento en la cancha, como para poner sus piezas, no pueden agarrar conos acostados, buena estrategia al hacer parking al llegar tarde al engage, pero casi no lo logran, y parece que querían o mostraban señales de tratar de subir a la charging station a 1 segundo de terminar la partida, por lo que not that good o a teammate"
+24/03/2023 12:58:30,Delfin,32,1792,0,0,1,0,0,0,0,0,0,,0,2,0,0,2,0,1,1,1,1,0,0,2,,
+24/03/2023 14:11:12,Pao,41,1792,0,0,1,0,0,0,1,0,0,,0,1,0,0,3,0,0,0,1,0,1,6,1,,Get in the way of other robots of the same alliance 
+24/03/2023 15:23:18,Delfin,50,1792,0,0,0,0,1,0,1,0,0,,0,1,0,0,3,0,1,1,1,0,1,0,2,Fouls por entrar a loading zone,
+24/03/2023 16:21:49,Humberto,59,1792,0,0,1,0,0,0,0,0,1,,0,1,0,0,1,0,0,0,1,1,0,0,2,,
+24/03/2023 17:06:19,Clarisa,65,1792,0,0,1,0,0,0,0,0,1,,0,1,0,0,3,0,0,0,1,1,0,0,1,,Cubos y conos en segundo
+24/03/2023 9:29:56,Delfin,12,2062,0,0,0,0,0,0,0,0,0,,2,0,0,0,0,0,1,1,1,0,1,0,2,,
+24/03/2023 10:52:31,Mentor Wisconsin,23,2062,0,0,0,0,0,0,1,0,0,,0,0,0,3,0,0,0,0,1,1,0,0,1,,Inestable. Casi se voltea varias veces 
+24/03/2023 12:43:09,Erick,31,2062,0,0,0,0,0,0,1,0,0,,0,1,0,0,0,0,0,1,0,0,0,0,1,,
+24/03/2023 13:26:08,Delfin,36,2062,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,1,1,1,0,1,0,2,,
+24/03/2023 15:29:18,Delfin,51,2062,0,0,0,0,0,0,0,1,0,,0,3,1,1,1,1,1,1,1,1,0,0,2,Tronó un cubo,
+24/03/2023 16:09:21,Delfin,57,2062,0,0,0,0,0,0,1,0,0,,2,0,1,0,0,3,1,1,0,0,0,0,2,,
+24/03/2023 17:13:01,Delfin,66,2062,1,0,0,0,0,0,1,0,0,,1,1,1,0,0,0,1,0,0,0,0,0,1,,
+24/03/2023 8:53:43,Josué,7,2077,0,0,0,0,0,0,0,0,0,"Parece un autonomo muy mal calibrado, solo se movió hacia la charging station sin salir de la community, evitando que su teammate hiciera un engage en autónomo al interferir con la cs",1,1,0,0,0,0,0,0,1,0,0,0,1,,"Muy lento, su operator le cuesta agarrar las piezas y su intake se mueve mucho complicando los fine movements necesarios para poner las piezas en el grid, buena maniobra para hacer un double engage pero su compañero casi los tira de la charging"
+24/03/2023 9:38:40,Delfin,13,2077,0,0,0,0,0,0,0,0,0,,0,1,0,0,0,0,1,1,1,0,1,0,2,,"Solo se quedaban en una pequeña zona, moviéndose al frente atras sin sentido, estorbando a su alianza más que a la otra"
+24/03/2023 10:23:46,Erick,19,2077,0,0,0,0,0,0,1,0,0,,2,0,0,0,0,0,0,0,1,0,1,0,1,,
+24/03/2023 12:37:20,Pao,30,2077,0,0,0,0,0,0,1,0,0,,0,2,0,2,0,0,0,1,0,0,0,2,1,,Easily climb the charge station 
+24/03/2023 15:00:35,Delfin,47,2077,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,0,1,1,1,0,0,2,,
+24/03/2023 16:15:22,Humberto,58,2077,0,0,0,0,0,0,0,0,0,,2,0,0,0,0,0,1,0,0,0,0,60,1,,Se quedó parado todo el autónomo y gran parte del teleop
+24/03/2023 8:35:23,Delfin,5,2194,0,1,0,0,0,0,1,0,0,,0,0,0,0,3,0,1,1,1,1,0,0,1,,
+24/03/2023 12:23:15,Delfin,28,2194,0,1,0,0,0,0,1,0,0,,0,0,0,0,2,1,1,0,0,0,0,0,1,,
+24/03/2023 13:26:07,Delfin,36,2194,0,0,1,0,0,0,0,0,0,,1,0,0,0,2,0,1,1,1,0,1,0,2,,
+24/03/2023 14:09:16,Alex,41,2194,0,1,0,0,0,0,0,0,0,,0,0,0,1,2,0,1,0,0,0,0,0,2,,
+24/03/2023 16:27:49,Delfin,60,2194,0,1,0,0,0,0,0,0,0,,0,0,0,2,1,0,1,1,1,0,1,0,2,,
+24/03/2023 17:46:41,Delfin,70,2194,0,1,0,0,0,0,1,0,0,,0,0,0,0,0,2,1,1,1,1,0,0,2,,
+24/03/2023 8:37:30,Josué,5,2202,1,0,0,0,0,0,1,0,0,"Técnicamente su autonomo puede meter 2 conos en el low grid, pero el segundo quedó afuera parcialmente, por lo que no cuenta para puntos en autónomo, en teleop lo corrigieron tho, pero son puntos de teleop en todo caso",3,0,0,1,0,0,0,0,1,1,0,0,1,,"Good movement, pueden agarrar bien conos y cubos, parece que pueden alcanzar más alto que el lower row, pero no lo demostraron y solo llenaron el bottom row, hicieron engage en el ultimo momento a pesar de quedarse como 8 segundos sin hacer nada, pero lograron hacerlo bien anyways"
+24/03/2023 9:46:45,Delfin,14,2202,1,0,0,1,0,0,1,0,0,,4,0,0,2,0,0,1,1,1,1,0,0,3,,"Buena agresividad y movimiento impresionante, buena opción de para selección de alianza"
+24/03/2023 10:53:43,Delfin,23,2202,1,0,0,0,0,0,1,0,0,,3,0,0,3,0,0,1,1,1,1,0,0,3,,"Super buen robo, se mueve rapidísimo y se concentra en lo que es bueno y lo hace de una manera excelente. Sería excelente como alianza, mientras ellos ponen abajo, nosotros arriba"
+24/03/2023 12:45:31,Pao,31,2202,1,0,0,0,0,0,1,0,1,,2,0,0,2,0,0,1,0,1,1,0,1,1,,It crossed the charge station several times and dodge the robots that block it very well
+24/03/2023 13:53:44,Alex,39,2202,1,0,0,0,0,0,1,1,1,,2,0,0,2,1,0,0,1,1,0,0,0,3,,Se mueve muy rapido el robot. Un buen golpe les puede soltar el game piece pero aparte de eso su mecanismo es bastante seguro
+24/03/2023 14:33:28,Delfin,44,2202,1,0,0,0,0,0,1,0,0,,6,3,3,2,1,0,1,1,1,1,0,0,4,,Buen movimiento y hace muy bien su trabajo y se adapta al piso. Pone cosas en nivel 2 si se acaba el 1 
+24/03/2023 15:14:42,Humberto,49,2202,0,0,0,0,0,0,0,0,1,,5,0,0,1,0,0,0,0,1,0,1,0,1,0,El robot solo agarra cubos con su intake y los pone en el primer nivel. Cuando metió conos fue porque los arrastró
+24/03/2023 16:02:09,Fátima,39,2202,0,0,0,0,0,0,1,0,1,Iba a agarrar cono pero no lo alcanzó a arrastar.,2,0,0,2,1,0,0,0,1,0,0,2,3,0,"MUY rápido, es estable (se pegó con otro y ni le movió), solo pone abajo y le cuesta poner conos arriba, no puso cubos arriba. Buen balance."
+24/03/2023 16:02:56,Clarisa,56,2202,0,0,0,0,0,0,1,1,0,,0,0,0,0,4,0,0,0,1,1,0,0,1,,Solo puede hasta el segundo nivel y conos
+24/03/2023 8:28:32,Delfin,4,2358,0,0,0,1,0,0,1,0,0,,4,0,0,0,0,0,1,0,0,0,0,0,1,,
+24/03/2023 9:15:27,Delfin,10,2358,0,0,0,0,0,1,1,0,0,,0,0,1,0,1,1,1,1,1,1,0,0,1,,"Muy bien manejada, y buen movimiento"
+24/03/2023 12:43:40,Alex,31,2358,0,0,0,0,0,0,1,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,3,,"Robot played mostly ineffective game pieces, struggled to pick up the cube they did score and had to attempt putting it in mid-zone twice before getting it"
+24/03/2023 15:55:15,Humberto,55,2358,0,0,0,0,0,0,0,0,0,,0,0,3,0,0,0,0,0,1,1,0,0,2,,
+24/03/2023 17:07:26,Delfin,65,2358,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0,0,1,0,0,1,,
+24/03/2023 9:54:16,Josué,15,2506,0,0,0,0,0,1,1,0,0,"Trataron de salir de la community y luego hacer engage pero el robot fue tan rapido que desbalanceó la charging station y terminaron poniendo el angulo más empinado de su lado, por lo que el robot no pudo subir",0,0,0,0,0,0,0,0,1,0,1,3,2,,"El robot tiene potencial de ser rapido pero el driver no sabe manejarlo bien, parece que su intake no funciona porque no pudieron agarrar ninguna pieza en tele op"
+24/03/2023 10:29:55,Delfin,20,2506,0,0,0,0,0,1,0,1,1,,0,0,1,0,0,1,1,1,1,0,1,0,3,,"Buen movimiento, sería buena opción, pero hay mejores"
+24/03/2023 13:18:10,Pao,34,2506,0,0,0,0,0,1,1,0,1,,0,0,1,0,0,1,1,1,0,0,0,1,1,,
+24/03/2023 15:52:16,Delfin,54,2506,0,0,0,0,0,1,0,1,1,,0,1,0,1,0,0,1,1,0,0,0,0,1,,
+24/03/2023 9:14:49,Ivanna,10,2512,0,0,0,1,0,0,1,0,0,,0,0,2,0,0,4,1,0,1,1,0,0,1,,
+24/03/2023 11:07:57,Erick,25,2512,0,0,0,0,0,1,1,0,0,,0,1,0,0,0,2,0,0,1,1,0,0,1,,Buen desempeño del driver
+24/03/2023 12:58:31,Delfin,32,2512,0,0,0,0,0,1,1,0,0,,0,0,1,0,0,1,1,1,1,1,0,0,2,Supo jugar alrededor de la loading zone,"Jugo defensiva, pero no tiene un robot para eso, se mueve lento"
+24/03/2023 15:15:13,Pao,49,2512,0,0,0,0,0,1,1,0,0,Atravesó la CS,0,0,0,1,1,1,0,0,1,0,1,2,1,,
+24/03/2023 17:13:08,Clarisa,66,2512,0,0,0,0,0,1,1,0,0,,0,0,0,2,0,1,0,0,1,1,0,0,1,,Intenta poner conos pero se le caeeen. Agarra conos del piso pero dudo que sea super util
+24/03/2023 10:00:22,Delfin,16,2830,0,0,1,0,0,0,0,1,1,,0,0,0,2,0,1,1,0,0,0,0,0,3,,Se les caía muchos conos
+24/03/2023 10:37:07,Mentor Wisconsin,21,2830,0,0,1,0,0,0,0,0,1,,0,0,0,1,0,1,0,1,0,0,0,0,1,,Batallan agarrando piezas
+24/03/2023 12:14:01,Pepe,27,2830,0,0,3,0,0,0,1,1,1,,0,0,0,0,0,4,1,1,1,0,0,0,1,,Tiraron a su alianza
+24/03/2023 13:40:03,Pao,37,2830,0,0,0,0,0,1,1,1,0,,1,0,0,0,0,2,0,0,1,0,1,4,1,,
+24/03/2023 15:13:30,Alex,49,2830,0,0,1,0,0,0,1,0,0,,0,0,1,0,0,3,0,1,1,0,1,0,2,,
+24/03/2023 16:42:15,Clarisa,62,2830,0,1,1,0,0,0,1,1,0,,1,0,2,0,0,0,1,0,0,0,0,0,1,,"Garra fea, depende del human y no se pudo subir pero creo que por espacio"
+24/03/2023 17:40:19,Delfin,69,2830,0,0,1,0,0,0,0,0,0,,1,1,0,0,0,2,1,1,1,0,1,0,2,,
+24/03/2023 17:40:42,Pao,69,2830,0,0,1,0,0,0,0,0,1,,1,0,1,0,0,1,0,0,1,0,1,1,1,,
+24/03/2023 9:01:13,Delfin,8,3067,0,0,1,0,0,0,0,1,1,,1,0,0,1,1,2,1,1,1,0,0,0,2,,
+24/03/2023 11:06:27,Delfin,25,3067,0,0,1,0,0,0,1,0,0,,1,0,1,0,0,1,1,1,1,0,1,0,2,,"Buen movimiento, tuvieron problemas por un momento"
+24/03/2023 13:05:20,Erick,33,3067,0,0,0,1,0,1,1,0,0,,0,2,0,0,0,4,0,1,0,0,0,0,2,,Muy ágil el robot
+24/03/2023 15:36:17,Delfin,52,3067,0,0,0,1,0,0,1,0,0,,0,0,1,1,0,3,1,0,0,0,0,0,1,,
+24/03/2023 15:36:44,Pao,52,3067,0,0,0,1,0,0,1,0,0,,0,0,1,1,0,2,0,0,0,0,0,2,1,,
+24/03/2023 12:07:16,Erick,26,3197,0,0,1,0,0,0,1,0,1,,2,0,0,0,0,1,0,1,0,0,0,0,1,,
+24/03/2023 13:18:36,Mentor Wisconsin,35,3197,0,0,1,0,0,0,1,0,1,,1,0,0,0,1,2,0,0,1,1,0,0,1,,
+24/03/2023 15:35:40,Humberto,52,3197,0,1,0,0,0,0,0,0,1,,0,0,1,0,0,2,0,1,0,0,0,0,1,,
+24/03/2023 16:16:11,Clarisa,58,3197,1,0,0,0,0,0,1,1,0,,0,0,0,0,0,3,0,1,0,0,0,0,1,,"Tiene una garra que parece que solo aplasta, lo que lo hace suuuper ineficiente y se le caia. No se pudo balancear pero era rapido"
+24/03/2023 16:48:02,Delfin,63,3197,0,0,1,0,0,0,0,1,1,,0,0,0,0,2,2,1,1,1,0,1,0,2,,
+24/03/2023 8:53:08,Delfin,7,3418,0,0,0,0,0,0,1,0,0,,0,1,1,1,0,1,1,1,1,1,0,0,1,,muy tranquilo el
+24/03/2023 9:52:43,Ivanna,15,3418,0,0,0,0,0,1,0,0,0,,0,0,1,1,0,0,1,0,1,1,0,0,1,,
+24/03/2023 10:38:35,Delfin,21,3418,0,0,0,0,0,0,0,0,0,,4,2,0,0,0,0,1,1,1,1,0,0,1,,"Muy buen robot, siento que le falta movimiento pero se concentra en lo que es bueno y es poner cubos"
+24/03/2023 12:35:49,Mentor Wisconsin,30,3418,0,0,0,0,0,1,0,0,0,,0,0,1,1,0,0,0,0,1,0,1,0,1,,
+24/03/2023 13:25:56,Erick,36,3418,0,0,0,0,0,0,1,0,0,,2,0,0,2,1,2,1,0,0,0,0,0,1,,
+24/03/2023 15:05:37,Alex,48,3418,0,0,0,0,0,1,1,0,0,,1,0,0,0,0,2,0,1,1,1,1,0,1,,
+24/03/2023 15:56:24,Delfin,55,3418,0,0,0,0,0,1,1,0,0,,2,0,0,0,0,1,1,1,1,1,1,0,1,,
+24/03/2023 8:13:34,Ivanna,2,3596,0,0,1,0,0,0,1,0,0,,0,1,0,0,0,0,0,1,0,0,0,0,2,0,Mostly defense didn't see to much game pices from it 
+24/03/2023 9:08:20,Delfin,9,3596,0,0,1,0,0,0,1,0,0,,2,0,0,0,0,0,1,1,1,0,0,0,1,Foul del otro,Muuuuuy lento. un tanque con poco movimiento
+24/03/2023 12:07:28,Mentor Wisconsin,26,3596,0,0,1,0,0,0,1,0,0,,0,0,0,0,0,0,0,1,0,0,0,0,1,,"Lento, inestable, no hace mucho, malo siendo defensa, estorba a su equipo."
+24/03/2023 13:12:17,Erick,34,3596,0,0,3,0,0,0,1,0,0,,0,3,0,1,1,0,0,0,1,0,1,0,2,,
+24/03/2023 15:06:03,Delfin,48,3596,0,0,0,0,0,1,1,0,0,,0,0,0,0,0,0,1,1,1,1,0,0,1,,
+24/03/2023 8:22:07,Delfin,3,4786,0,1,0,0,0,0,1,1,1,,0,1,0,0,3,1,1,1,1,0,0,0,1,15 fouls pero no por su culpa,"Muy buen robot, se mueve muy bien"
+24/03/2023 9:46:45,Josué,14,4786,0,0,1,0,0,0,0,0,1,,0,1,0,0,2,2,0,0,1,1,0,0,1,,"Quick, good movement aunque les cuesta hacer counter a la defenza, o atravesar otros robots en su camino, tardan en agarrar y dejar las piezas pero not that big of an issue"
+24/03/2023 10:39:30,Erick,21,4786,0,0,1,0,0,0,1,0,0,,0,2,0,0,1,3,0,1,0,0,0,0,1,,"Buena movilidad, buscaba colocar conos y cubos siempre en nivel 3 y 2"
+24/03/2023 12:23:11,Delfin,28,4786,0,0,1,0,0,0,0,1,1,,0,0,2,0,0,3,1,1,1,1,0,0,1,,Buen robot para el conos en nivel 3
+24/03/2023 15:35:50,Clarisa,52,4786,1,0,0,0,0,0,1,0,1,Eficiente,0,0,1,0,0,2,0,1,0,0,0,0,3,,"Tarda mucho en agarrar conos y cubos, conos los agarro de, human player, parece que no puede agarrar conos caidos"
+24/03/2023 17:13:03,Delfin,66,4786,0,0,1,0,0,0,0,1,1,,0,0,1,0,0,3,1,1,1,1,0,0,2,,
+24/03/2023 17:26:58,Pao,66,4786,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,3,0,0,0,0,0,7,1,,
+24/03/2023 8:44:38,Ivanna,6,4787,0,0,1,0,0,0,1,0,0,,0,0,0,0,0,3,1,0,1,0,0,0,1,,Good claw but takes its time to line up 
+24/03/2023 9:22:54,Delfin,11,4787,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,1,1,1,1,1,0,0,1,2 fouls por entrar a la loding zone contraria (contacto y extención),
+24/03/2023 11:00:07,Delfin,24,4787,0,0,1,0,0,0,1,0,0,,1,0,1,0,0,0,1,0,0,0,0,3,1,,"Super lento, como 6 o 7 segundo para ir de un lado de la cancha al otro"
+24/03/2023 12:43:53,Delfin,31,4787,0,0,0,0,0,0,0,1,1,,0,0,0,0,1,0,1,0,0,0,0,0,2,,"Jugo defensiva cuando no debió, no hacen una buena defensa"
+24/03/2023 13:39:11,Erick,37,4787,1,0,0,0,0,0,1,0,0,,0,1,0,0,1,0,0,0,1,1,0,0,3,,Defensa muy rara
+24/03/2023 15:49:25,Humberto,54,4787,0,0,1,0,0,0,1,0,0,,0,0,0,0,0,2,0,0,1,1,0,0,1,,
+24/03/2023 16:34:17,Humberto,61,4787,0,0,1,0,0,0,0,0,1,,1,0,0,0,0,2,0,0,1,1,0,0,1,,
+24/03/2023 17:47:56,Clarisa,70,4787,0,0,1,0,0,0,0,0,1,,0,0,0,1,0,1,0,0,1,1,0,0,1,,"LENTIIIISIMO, esta tranquiliiito, paseando por su casa, seerno No se mueve muy bien.se le cayeron dos conos jaja"
+24/03/2023 9:23:19,Delfin,11,5096,0,0,0,0,0,0,1,0,0,,2,0,0,0,0,0,1,0,0,0,0,0,1,,"Mecanismo un poco malo, los alenta mucho"
+24/03/2023 12:14:48,Mentor Wisconsin,27,5096,0,0,0,0,0,0,1,0,0,,0,0,0,1,0,0,0,0,1,0,1,0,1,,
+24/03/2023 12:57:30,Mentor Wisconsin,32,5096,0,0,0,0,0,0,0,1,0,,2,0,0,0,0,0,1,0,0,0,0,0,2,,
+24/03/2023 14:03:04,Delfin,40,5096,0,0,0,0,0,0,1,1,1,,0,0,0,1,0,0,1,0,0,0,0,0,1,"Entro a la loading zone con extencion, contacto con enemigo y manejo de mas de 2 piezas",
+24/03/2023 15:14:19,Alumno Taller,49,5096,0,0,0,0,0,0,1,0,0,,1,0,1,0,0,0,1,1,1,0,1,5,3,"Es defensivo, poco movimiento",Only defense
+24/03/2023 8:14:01,Delfin,2,5148,0,0,1,0,0,0,0,0,0,,0,0,0,1,0,2,1,0,0,0,0,0,1,,"Cono caido, no buen agarre"
+24/03/2023 9:16:34,Josué,10,5148,0,0,0,0,0,0,0,0,0,Su intake no sacó su pieza en el autonomo,0,0,1,1,2,0,0,0,1,1,0,0,1,,"Lento, sus ciclos les toman mucho tiempo, les toma mucho tiempo dejar conos en el grid, sobre todo en acomodarse para colocarlo, les costó mucho acomodarse en el grid para un double engage, en especial considerando que eligieron casi bloquear el unico punto de entrada a la cs (un robot apagado bloqueaba la mitad de la cs) en lugar de ya colocarse en un punto en el que no estorbaban a sus compañeros"
+24/03/2023 10:52:29,Pepe,23,5148,0,0,0,0,0,0,1,0,0,Precargado,0,1,0,1,2,0,1,0,0,0,0,0,1,,Prefirió conectar un último link que escalar porque no pudo en el primer intento
+24/03/2023 13:00:50,Pao,32,5148,1,0,0,0,0,0,1,0,0,,0,0,0,0,4,0,0,0,0,1,0,2,1,,"It does not have such good control when driving, it collided with things"
+24/03/2023 15:00:37,Delfin,47,5148,0,1,0,0,0,0,0,0,0,,0,1,0,0,4,0,1,0,0,0,0,0,1,,
+24/03/2023 16:34:39,Delfin,61,5148,0,0,0,0,0,0,0,0,0,,0,2,0,1,3,0,1,0,0,0,0,0,2,,
+24/03/2023 17:40:14,Delfin,69,5148,0,1,0,0,0,0,0,0,0,,0,1,0,0,4,0,1,1,1,0,0,0,2,,Pone conos y cubos en segundo nivel 2
+24/03/2023 8:36:10,Ivanna,5,5822,1,0,0,0,0,0,1,0,1,,0,2,2,0,2,0,1,0,1,1,0,0,1,0,
+24/03/2023 9:53:16,Delfin,15,5822,1,0,0,0,0,0,0,1,1,,0,1,0,1,3,0,1,1,1,1,0,0,2,,Buen movimiento
+24/03/2023 10:45:35,Erick,22,5822,0,0,0,0,0,0,1,0,1,,0,1,0,0,1,0,0,0,1,0,1,0,1,,Buena defensa
+24/03/2023 12:43:40,Mentor Wisconsin,31,5822,1,0,0,0,0,0,0,0,1,,0,1,0,0,2,0,0,0,0,0,0,0,1,,
+24/03/2023 13:39:35,Alex,37,5822,1,0,0,0,0,0,0,1,1,,0,0,1,1,1,0,1,0,0,0,0,0,1,,Agarran del Human Player y le batallaron tantito para agarrar las piezas. Se les cayo un cono con una colision
+24/03/2023 14:40:51,Fátima,37,5822,1,0,0,0,0,0,1,0,1,,0,0,1,1,1,0,1,0,0,0,0,3,2,0,"Su brazo se voltea (tipo botbusters), su intake agarra bien los conos (no se complica), esquiva bien, problemas para PONER el cono. Al final no aprovechó a poner el cono y se quedó quieto 🤷‍♀️"
+24/03/2023 15:23:02,Humberto,50,5822,1,0,0,0,0,0,0,0,1,,0,2,0,0,1,0,0,1,0,0,0,0,2,0,El robot es lento pero se enfoca en los links.
+24/03/2023 16:54:06,Delfin,64,5822,0,0,0,0,0,0,0,1,1,,0,0,0,0,0,0,1,0,0,0,0,0,1,,
+24/03/2023 8:45:01,Delfin,6,6017,0,1,0,0,0,0,1,0,0,,1,1,2,0,0,0,1,0,0,0,0,0,2,,
+24/03/2023 12:15:29,Erick,27,6017,0,0,0,0,0,0,1,0,0,,1,2,0,0,0,0,0,0,1,0,1,0,1,,
+24/03/2023 13:07:11,Delfin,33,6017,0,0,0,0,0,1,1,0,0,,4,1,0,0,0,0,1,1,1,1,0,0,3,,La verdad el mejor equipo del regional
+24/03/2023 14:09:49,Delfin,41,6017,0,0,1,0,0,0,1,0,0,,3,2,0,0,0,0,1,1,1,0,1,0,1,,Ah qué buen robot <3 lo amo 10/10
+24/03/2023 16:54:05,Delfin,64,6017,0,0,1,0,0,0,1,0,0,,3,0,1,0,0,0,1,1,1,1,0,0,2,,<3 el mejor del mundo
+24/03/2023 8:01:54,Delfin,1,6160,0,0,0,0,0,0,1,0,0,,0,2,0,1,0,0,1,1,1,0,1,0,2,10 fouls de su alianza,buen movimiento
+24/03/2023 9:37:21,Ivanna,13,6160,0,1,0,0,0,0,1,0,0,,0,0,0,1,2,0,1,0,1,0,1,0,1,,
+24/03/2023 12:23:03,Erick,28,6160,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,1,0,0,1,1,0,0,1,,
+24/03/2023 13:05:40,Alex,33,6160,0,0,1,0,0,0,1,0,0,,1,0,0,0,0,0,1,0,0,0,0,86,2,,Robot disconnected mid match. Showed decent control of game pieces and ability to place in high and mid zones
+24/03/2023 14:00:47,Alex,40,6160,0,0,1,0,0,0,1,0,0,,0,1,1,0,2,0,1,1,1,0,1,0,1,,"smooth driving, pudo ayudar a completar links con conos y cubos"
+24/03/2023 15:56:25,Delfin,55,6160,0,0,1,0,0,0,1,0,0,,1,0,2,0,1,1,0,0,0,0,0,39,2,,"Se desconecto muy fácil, peor pone cubos en nivel 1 y 3"
+24/03/2023 15:56:33,Pao,55,6160,0,0,1,0,0,0,1,0,0,,0,0,1,0,0,0,0,0,0,0,0,10,1,,Problemas de conexión y quedó como 40 seg sin moverse 
+24/03/2023 16:47:40,Clarisa,63,6160,0,0,1,0,0,0,0,0,0,Salio de la commi,0,0,0,0,0,0,0,0,1,0,1,0,1,,Intento defender pero mal
+24/03/2023 17:46:57,Delfin,70,6160,0,0,1,0,0,0,1,0,0,,0,2,0,0,0,0,1,0,0,1,0,28,2,,"Se desconecto asi nomas, ya no quiso bibir XD"
+24/03/2023 8:22:13,Delfin,3,6223,1,0,0,0,0,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,2,15 fouls pero no por su culpa,"No movia bien, y pareciera que le falta practica"
+24/03/2023 9:23:09,Josué,11,6223,1,0,0,0,0,0,0,0,1,,3,0,0,0,1,0,0,0,1,1,0,0,1,,"Algo lentos, su intake se mueve mucho por la inercia por lo que les cuesta agarrar las piezas, al darse cuenta de esto ellos empezaron a jugar empujando cubos con su chasis, pueden hacer un double engage aunque les cuesta un poco"
+24/03/2023 10:29:47,Erick,20,6223,0,1,0,0,0,0,1,0,0,,2,1,0,0,0,0,0,0,1,1,0,0,1,,
+24/03/2023 11:06:32,Mentor Wisconsin,25,6223,0,1,0,0,0,0,1,0,0,,1,0,0,0,2,0,1,0,0,0,0,0,1,,Agarran conos tirados pero se tardan en ponerlos
+24/03/2023 13:20:22,Delfin,35,6223,0,0,0,0,1,0,0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,1,,"muy mal robot, mecanismo inconsistente y lento"
+24/03/2023 14:39:45,Delfin,45,6223,0,1,0,0,0,0,1,0,0,,0,0,0,0,2,0,1,1,1,0,1,0,2,,
+24/03/2023 15:42:41,Delfin,53,6223,0,1,0,0,0,0,0,1,1,,0,0,0,1,0,0,1,0,0,0,0,0,2,,
+24/03/2023 15:45:43,Pao,53,6223,0,1,0,0,0,0,0,0,0,,0,0,0,1,0,0,1,0,0,0,0,3,1,,Se le dificulta tomar piezas 
+24/03/2023 9:08:57,Delfin,9,6381,0,0,1,0,0,0,1,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,1,,"Muy lento, casi no se pasaba al otro lado de la cancha y no se pudo balancear solo"
+24/03/2023 10:17:13,Delfin,18,6381,0,0,1,0,0,0,1,0,0,,0,0,1,0,0,3,0,0,0,0,0,0,2,,"Recibieron un buen golpe y después de eso ya no se movían como antes, pero se mueven bien"
+24/03/2023 12:36:38,Erick,30,6381,0,0,0,0,0,0,1,0,1,,0,1,1,2,0,1,0,0,1,0,1,0,1,,
+24/03/2023 13:53:54,Pao,38,6381,0,0,1,0,0,0,0,1,0,,0,0,0,1,1,3,0,0,1,0,1,5,1,,block 
+24/03/2023 14:54:50,Delfin,46,6381,0,0,1,0,0,0,1,0,0,,0,0,3,0,0,2,1,1,0,0,0,0,2,,"Buena opción de alianza, pone bien las piezas y son consistentes"
+24/03/2023 15:29:09,Humberto,51,6381,0,0,0,0,0,0,1,0,0,,1,1,0,1,0,0,0,0,1,1,0,0,2,,Muy rápido controla bien el swerve
+24/03/2023 16:55:00,Clarisa,64,6381,0,0,1,0,0,0,1,1,0,,0,0,1,0,0,2,0,0,1,1,0,0,5,LO TIRO ALM,TIRO A UN WEY JAJAJAJA
+24/03/2023 8:36:06,Pepe,5,6421,0,0,0,1,0,0,1,0,0,,1,1,2,0,1,0,1,1,1,1,0,0,1,,Entre al stream incorrecto conviene revisar este de nuevo en tba
+24/03/2023 9:31:16,Delfin,12,6421,0,0,0,0,0,1,1,1,1,Un autónomo muy rápido de un intento de 1 cono,3,0,1,0,0,0,1,1,1,0,1,0,3,,"Movimiento muy rápido, se mueve de un lado al otro muy chido, pero fallo sus tiros de conos"
+24/03/2023 10:12:13,Mentor Wisconsin,17,6421,0,0,0,0,0,1,0,0,0,Su autonomo va por un cubo y lo pone en segundo nivel pero en este match no pudo agarrar el cubo,2,0,0,0,0,0,0,0,1,0,0,0,2,,Le rompieron su intake de un golpe. Sus drivers no son tan buenos. Se mueven rápido pero no hacen nada (van por piezas y se regresan sin haber agarrado piezas).
+24/03/2023 12:08:14,Delfin,26,6421,0,0,0,0,0,1,1,1,1,,1,0,2,0,0,1,1,1,1,1,0,0,2,,"Buen movimiento, seria buena opcion de alianza"
+24/03/2023 13:55:25,Pao,39,6421,0,0,1,0,0,1,1,0,0,,0,0,4,0,0,1,0,1,0,0,0,3,1,,block and collide with other robots 
+24/03/2023 14:52:31,Alex,46,6421,0,0,0,0,0,1,1,1,1,,3,1,0,1,1,0,0,1,0,0,0,0,2,,
+24/03/2023 16:35:33,Clarisa,61,6421,0,0,0,0,0,1,0,0,1,,1,0,0,1,0,0,0,0,1,1,0,0,2,,"Puso lo que pudo barriendo puramente pero se concentro mucho en defensa, y en una defensa efectiva"
+24/03/2023 17:12:23,Humberto,66,6421,0,0,0,0,0,0,1,0,0,,1,0,0,0,0,0,0,0,1,0,1,0,4,,Se le atoró su cono en el intake y en toda la partida no pudo poner pieza.
+24/03/2023 8:53:10,Delfin,7,6574,0,0,0,0,0,1,1,0,0,,3,0,2,0,0,2,1,0,0,0,0,0,3,,Muy buen movimiento
+24/03/2023 9:29:44,Erick,12,6574,0,0,0,0,0,1,1,0,0,,2,0,0,1,0,2,1,0,0,0,0,0,1,,Tienen muy buena movilidad.
+24/03/2023 10:09:15,Delfin,16,6574,0,0,0,0,0,0,1,0,0,,2,0,0,1,1,0,1,1,1,0,0,0,5,,"Bien agresivo, le dio con todo hacia la loading zone, le pegó a un robot y zafó su intake completamente"
+24/03/2023 11:07:35,Alex,25,6574,0,0,1,0,0,0,1,0,0,,1,0,0,2,0,2,0,1,1,0,1,0,4,,"Robot moves swiftly across the field, kept making quick changes of direction and was elusive"
+24/03/2023 13:19:20,Alex,35,6574,0,0,0,0,0,1,1,0,0,,1,1,1,0,2,0,1,0,0,0,0,0,3,,Se mueve muy bien el robot. Tienden a preferir agarrar del Human Player aunque habian tenido oportunidades de recoger piezas del piso
+24/03/2023 14:07:45,Fátima,35,6574,0,0,0,0,0,1,1,0,1,No hace tantos puntos (se pierde un poco).,2,1,1,0,2,0,1,0,0,0,0,3,4,0,Es rápido pero al acomodar conos y cubos es lento (se tarda en traerlos). Buena defensa.
+24/03/2023 15:55:36,Alumno Taller,55,6574,0,0,0,0,0,1,1,0,0,,1,0,2,0,2,2,0,0,1,1,0,0,3,,"very good offensive, reaches high places easily"
+24/03/2023 17:33:29,Clarisa,68,6574,0,0,0,0,0,1,0,0,1,,0,1,0,1,2,0,0,0,1,1,0,0,2,,Rapidismo
+24/03/2023 8:21:08,Ivanna,3,6643,0,1,0,0,0,0,1,0,0,,0,1,0,0,0,0,0,0,0,0,0,0,1,,"Not really stable, claw bearly worked "
+24/03/2023 10:09:10,Delfin,16,6643,0,1,0,0,0,0,0,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,1,su garra entró a la loading zone (contacto con otra alianza),"No hizo nada, se quedo parado en la loading zone mientras estaba conectado"
+24/03/2023 11:00:01,Mentor Wisconsin,24,6643,0,0,0,0,0,0,1,0,0,,1,0,0,1,0,0,0,1,0,0,0,10,1,,Super tronco y medio inestable
+24/03/2023 13:12:48,Alex,34,6643,0,1,0,0,0,0,0,0,0,,2,0,0,0,0,0,1,1,0,0,0,0,1,,"Se mueve muy lento, se tarda mucho en agarrar game pieces y su mecanismo no parece ser muy consistente"
+24/03/2023 13:13:25,Delfin,34,6643,0,1,0,0,0,0,0,0,0,,1,0,1,0,0,0,1,0,0,0,0,0,1,,"Se movía muy lento y estorbaba, no agarraba bien los cubos"
+24/03/2023 16:02:47,Alumno Taller,56,6643,0,1,0,0,0,0,1,1,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,no,"NO NO. no funciona intake, va lento no hace nada, desbalancea"
+24/03/2023 10:02:02,Erick,16,7417,1,0,0,0,0,0,1,0,0,,5,0,0,0,0,0,1,0,0,0,0,0,1,,
+24/03/2023 10:45:43,Mentor Wisconsin,22,7417,1,0,0,0,0,0,1,0,0,,5,0,0,0,0,0,0,0,1,0,1,0,1,,Son rápidos pero solo pueden poner cosas en nivel 1.
+24/03/2023 12:30:04,Alex,29,7417,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,120,1,,Robot moved during auto but disconnected. Disrupted community zone until alliance robot pushed it out of the way
+24/03/2023 13:27:21,Pao,36,7417,1,0,0,0,0,0,0,1,0,,4,0,0,0,0,0,0,0,1,0,1,4,2,,Good defense 
+24/03/2023 14:27:55,Delfin,42,7417,1,0,0,0,0,0,1,0,0,,0,0,0,0,1,0,1,0,0,0,0,0,4,Tiraron a un robot y tarjeta roja :c,"Creo que tiraron a un robot, bastante agresivos y se tiraron de un lado de la CS"
+24/03/2023 15:44:42,Clarisa,53,7417,1,0,0,0,0,0,1,0,0,Salio del comunity,6,0,0,0,0,0,0,0,1,1,0,0,3,"Agarro dos piezas a la vez, por su intake lo hac suseptible a eso pero es rapido","Es rapido y ofensivo, pone de manera eficiento los cubos pero su intake lo hace susceptible a agarrar dos game pieces a la vez"
+24/03/2023 9:45:55,Ivanna,14,7900,0,0,0,0,0,0,1,1,0,,0,0,0,0,0,0,0,0,0,1,0,3,1,,Bearly moved towards the end 
+24/03/2023 10:24:58,Delfin,19,7900,0,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,3,"Checar, esta partida se fue a la community enemiga y ocasionó un foul","Estorbaba. estorbo bien pero, no hizo nada en si. No se movia bien"
+24/03/2023 12:08:37,Pao,26,7900,0,0,0,0,0,0,1,0,0,,0,0,1,0,0,0,1,0,1,1,0,5,1,,almost fell sideways when getting on the charge station
+24/03/2023 14:38:02,Alex,45,7900,0,0,0,0,0,0,1,1,1,,0,0,0,0,0,0,0,0,0,0,0,0,2,,"Tipped by own teammate after a hard hit. No estaban usando el mecanismo, podria estar descompuesto"
+24/03/2023 15:29:45,Clarisa,51,7900,0,0,0,0,0,0,0,0,0,No lo vi sorrt,0,0,0,0,0,0,0,0,0,0,0,40,2,,No parecia que se moviera a control y luego se dejo de mover
+24/03/2023 16:21:48,Clarisa,59,7900,0,0,0,0,0,0,0,0,1,,0,0,0,0,0,0,0,0,0,0,0,60,1,,"Esta teniendo problemas para moverse, solo se movio  enfrente y atras, como intentando hacer algo pero no lo logro y se dejo de mover con 60 segundos faltantes"
+24/03/2023 17:39:50,Humberto,69,7900,0,0,0,0,0,0,1,0,1,,1,0,0,1,0,0,0,0,1,1,0,0,1,,Como que no funciona muy bien porque después de dos piezas se quedaron atorados en el centro y se quedaron engaged con 40 segundos restantes en el rejoj (muyy temprano)
+24/03/2023 9:00:28,Delfin,8,7915,0,0,0,1,0,0,0,0,0,,3,0,0,1,2,0,1,0,0,0,0,0,2,,Mal manejo
+24/03/2023 9:46:16,Erick,14,7915,0,0,0,0,0,0,1,0,0,Cruzó la línea de la mitad,0,0,0,2,0,0,0,0,0,0,0,0,1,,"Su gripper es muy malo, suele tirar piezas."
+24/03/2023 12:57:58,Erick,32,7915,1,0,0,0,0,0,1,0,0,Supera la mitad,4,0,0,1,0,0,0,0,0,0,0,0,1,,No aprovechan su intake. Probablemente sea un tema mecánico
+24/03/2023 15:42:45,Delfin,53,7915,0,1,0,0,0,0,1,0,0,Se paso de la linea central,0,0,0,0,2,0,1,1,1,1,0,0,3,,
+24/03/2023 9:07:26,Erick,9,8029,0,0,0,0,0,0,1,0,1,,0,0,0,0,0,0,1,0,0,0,0,0,2,Un poco de pinning,
+24/03/2023 10:08:48,Erick,17,8029,0,0,0,0,0,0,1,0,0,,3,0,0,1,0,0,0,0,1,1,0,0,1,,
+24/03/2023 12:16:15,Alex,27,8029,1,0,0,0,0,0,1,1,1,"Good auto, achieves both mobility and engaged. Occupies middle of the field, goes over CS passes and climbs on top again",4,0,0,0,0,0,0,1,1,0,1,0,3,,"Kind of clunky maneuvering, overall very quick putting cubes in the lower zone. "
+24/03/2023 13:39:35,Delfin,37,8029,1,0,0,0,0,0,0,0,0,,3,0,0,0,0,0,1,1,1,0,1,0,2,,
+24/03/2023 14:20:54,Pao,42,8029,1,0,0,0,0,0,0,0,1,,3,0,0,0,0,0,0,0,1,1,0,4,1,,Link in level 1
+24/03/2023 15:06:03,Delfin,48,8029,1,0,0,0,0,0,1,1,1,,3,0,0,0,0,0,0,0,0,1,0,0,2,,
+24/03/2023 10:00:25,Delfin,16,8096,0,0,0,0,0,1,1,0,0,,0,0,0,0,0,0,1,1,1,1,0,0,1,,"Tuvieron problemas con algo, lo notaron y se subieron al CS al principio y ahí se quedaron"
+24/03/2023 10:38:02,Delfin,21,8096,0,0,0,0,0,2,1,1,1,"Muy buen autónomo, fue muy cool de ver",0,1,2,1,0,1,1,1,1,1,0,0,3,,"Adaptándose a los links y un movimiento muy ágil, sería una muy buena opción como alianza"
+24/03/2023 12:08:00,Alex,26,8096,0,0,0,0,0,1,1,0,0,Picks up cone at end,5,0,1,0,0,2,0,1,0,0,0,0,3,,"Robot focused on creating links, moved very quickly throughout the field. Had a bit of trouble collecting cones so switched to cubes right after"
+24/03/2023 13:46:41,Delfin,38,8096,0,0,0,0,0,1,1,0,0,,1,1,0,1,0,3,1,1,1,0,1,0,1,,
+24/03/2023 15:09:10,Pao,44,8096,0,0,0,0,0,1,1,0,0,"El autónomo está diseñado para que ponga 2 game pieces (en level 3) y tome una, pero se le cayó una y no la pudo poner",0,1,1,0,0,1,1,0,0,0,0,2,1,,Bueno esquivando y casi se caen 
+24/03/2023 15:24:11,Alumno Taller,50,8096,0,0,0,0,0,1,1,0,0,Fast,0,0,4,1,0,0,1,0,0,0,0,0,1,very fast attacker,very fast autonomos and great 3 lvl offensive
+24/03/2023 17:33:04,Humberto,68,8096,0,0,0,0,0,1,1,0,0,El plan es dos piezas metidas y una agarrada pero la segunda pieza no la logran.,0,0,0,0,0,2,0,0,0,1,0,0,3,,No frenó y se enfrentó a un robot que lo tumbó. Estuvo más de media match tumbado en el piso porque lo tiraron.
+24/03/2023 8:28:34,Delfin,4,8122,1,0,0,0,0,0,0,1,1,,0,1,2,1,0,1,1,1,1,1,0,0,2,,
+24/03/2023 10:23:41,Delfin,19,8122,0,0,0,0,0,1,1,0,0,,1,0,2,1,1,2,0,0,0,0,0,0,3,,"Un super robo, se mueve rápido y pone el nivel 3. Un mecanismo interesante para recojer cubos del piso, checar por fouls en el futuro"
+24/03/2023 14:24:51,Pao,43,8122,1,0,0,0,0,0,1,0,0,,0,0,0,0,0,0,0,0,0,0,0,4,1,,fell in the beginning of the teleop of the match 
+24/03/2023 16:09:23,Delfin,57,8122,0,0,0,0,0,1,0,1,1,,1,0,1,0,0,0,1,0,0,0,0,0,2,,
+24/03/2023 16:53:51,Humberto,64,8122,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,3,0,0,1,1,0,0,2,,
+24/03/2023 17:08:01,Pao,57,8122,0,0,0,0,0,1,0,0,1,,0,0,0,1,0,3,1,0,0,0,0,2,1,,
+24/03/2023 8:45:37,Josué,6,8188,0,0,0,0,0,0,0,0,0,No se movió,0,1,1,0,0,1,1,0,0,0,0,0,1,,"Muy lento, le cuesta agarrar las piezas, su mecanismo para dejar las piezas se despliega muy lento, pueden hacer un double engage, fue el otro equipo en la alianza el que arruinó la oportunidad de hacerlo porque este equipo ya había dejado el espacio correcto para hacer un triple"
+24/03/2023 10:53:20,Erick,23,8188,0,0,0,0,0,0,1,1,0,,1,0,0,0,0,0,0,0,1,1,0,0,1,,
+24/03/2023 12:22:36,Alex,28,8188,0,0,1,0,0,0,1,0,0,,2,0,0,1,0,0,0,1,1,0,1,0,1,,Very passive play
+24/03/2023 13:46:36,Erick,38,8188,0,1,0,0,0,0,1,0,0,,4,0,0,0,0,0,0,1,0,0,0,0,1,,Su intake es muy endeble 
+24/03/2023 14:28:02,Delfin,43,8188,0,0,0,1,0,0,1,0,0,,3,0,0,0,0,0,1,1,1,0,0,0,3,,"Pusieron un cubo en donde ya había un cono, avientan cubos sin ponerlos bien en el nivel 1"
+24/03/2023 15:42:46,Alumno Taller,53,8188,0,0,0,0,0,1,1,1,1,,2,0,0,0,0,0,0,0,1,1,0,0,1,,"Intake doesn't works, can move very slowly"
+24/03/2023 17:22:57,Delfin,67,8188,0,0,0,0,0,0,0,1,0,,0,1,0,0,0,2,1,1,1,1,0,0,1,,
+24/03/2023 8:43:59,Pepe,6,8531,1,0,0,0,0,0,1,0,0,,0,0,0,0,2,0,0,0,0,0,0,0,1,,Sacó un cono de la cancha. Le jodió el balance a la alianza
+24/03/2023 9:37:58,Erick,13,8531,0,0,0,0,0,0,1,0,0,,2,0,0,0,0,0,0,0,1,1,0,0,2,,Su tanque/driver no es muy versatil. Problemas de movilidad.
+24/03/2023 10:24:32,Mentor Wisconsin,19,8531,0,0,0,0,0,0,1,0,0,Pusieron 1 cubo en lv1 pero no estaba 100% dentro,4,0,0,0,0,0,0,0,1,0,1,0,2,,Solo arrastra cubos. Al final empezó a defender decentemente. 
+24/03/2023 12:36:53,Alex,30,8531,1,0,0,0,0,0,1,0,0,,3,0,0,0,0,0,0,1,1,0,1,0,4,Se andaba paseando mucho al principio por el opposing alliance community zone. Lo andaban empujando hacia alla para generar penalty points (si parece ser que se los dieron),"Muy janky, no uso su mecanismo en la partida y manejaba el tank drive muy interrumpido"
+24/03/2023 13:20:06,Delfin,35,8531,1,0,0,0,0,0,1,0,0,,4,0,0,0,0,0,1,1,0,0,0,22,1,,"Se dejo5de mover, no fue conexión en si porque su luz estaba encendido, peor no se movió"
+24/03/2023 16:10:09,Clarisa,57,8531,0,0,0,0,0,0,0,0,0,No lo vi,2,0,0,0,0,0,0,1,0,0,0,0,1,,"Intento a hacer defensa despues de poner 2 cubos pero era mala y no muy rápido, casi no bloqueo"
+24/03/2023 17:07:10,Delfin,65,8531,0,0,0,0,0,0,1,0,0,,0,0,2,0,0,0,1,1,1,1,0,0,1,,No se movió nada
+24/03/2023 17:25:11,Pao,65,8531,0,0,0,0,0,0,1,0,0,Intento de cubo en level 1,4,0,0,0,0,0,0,0,1,1,0,2,1,,
+24/03/2023 9:15:07,Delfin,10,8701,0,0,0,0,0,1,1,0,0,,0,0,2,0,0,2,0,0,0,0,0,0,1,,buen manejo peor se fueron corriendo en los ultimos segundos y perdieron el parked :c
+24/03/2023 12:36:04,Delfin,30,8701,0,0,0,0,0,1,1,0,0,,0,0,2,0,0,1,1,0,0,0,0,0,1,,
+24/03/2023 13:46:38,Delfin,38,8701,0,0,0,0,0,1,1,0,0,,2,1,1,0,0,0,1,1,1,0,1,0,2,,
+24/03/2023 14:39:41,Delfin,45,8701,0,0,0,0,0,1,1,0,0,,0,0,0,2,0,0,1,1,1,0,1,0,3,,"Es buena última opción, hay mejores"
+24/03/2023 15:35:18,Alumno Taller,52,8701,0,0,0,0,0,1,1,0,0,,1,1,2,0,0,0,1,0,0,0,0,0,1,,reaches high places
+24/03/2023 16:47:20,Humberto,63,8701,0,0,0,0,0,1,1,0,0,,2,1,0,0,0,1,0,0,1,0,1,0,2,,
+24/03/2023 17:34:08,Delfin,68,8701,0,0,0,0,0,1,0,0,0,,3,0,0,0,0,0,1,1,1,1,0,0,2,,
+24/03/2023 17:42:28,Pao,68,8701,0,0,0,0,0,1,0,0,0,,3,0,0,0,0,1,0,0,1,1,0,0,1,,
+24/03/2023 9:02:04,Josué,8,8802,1,0,0,0,0,0,1,0,0,,6,1,0,0,0,0,0,1,0,0,0,0,1,,"Buen movimiento, muy rapidos llenando el bottom row, solo pueden agarrar cubos, no creo que puedan llenar top row, pero mid row lo pueden llenar sin problema en los espacios para cubos, solo necesitan mas tiempo para acomodarse, por alguna razon decidieron hacer engage al ultimo segundo posible arruinando el engage de sus compañeros"
+24/03/2023 12:23:06,Pao,28,8802,1,0,0,0,0,0,1,0,0,,1,0,0,0,0,0,1,0,1,1,0,1,2,,block other bots
+24/03/2023 13:46:28,Alex,38,8802,0,1,0,0,0,0,0,0,0,,4,1,0,0,0,0,1,0,0,0,0,3,1,,Robot tipped itself over trying to climb the Charging Station
+24/03/2023 14:23:58,Alex,43,8802,1,0,0,0,0,0,1,0,0,,7,0,0,0,0,0,0,1,1,1,0,0,1,,"Muy rapido, se lleno el row de abajo rapidisimo"
+24/03/2023 15:23:25,Delfin,50,8802,1,0,0,0,0,0,1,0,0,,5,0,0,1,0,0,1,1,1,0,1,0,3,,"Buen movimiento, casi casi nuestro 9118 de puebla XD"
+24/03/2023 15:23:44,Pao,50,8802,1,0,0,0,0,0,1,0,0,,3,0,0,0,0,1,0,0,1,0,1,6,1,,Link en level 1
+24/03/2023 15:46:21,Fátima,38,8802,0,1,0,0,0,0,1,0,0,"Rápido,podría más puntos (se quedó parado junto a la charge station).",4,1,0,1,0,0,1,0,0,0,0,6,1,0,"Se movía rápido, era ágil para tomar cubos, tenían un tipo de garra que también elevaba, pero por el centro de masa (supongo que no estaba bien) hizo que se volteara casi al final."
+24/03/2023 16:02:25,Humberto,56,8802,0,0,0,0,0,0,1,0,0,,3,0,0,2,0,0,0,0,1,1,0,0,1,,
+24/03/2023 17:40:45,Clarisa,69,8802,0,1,0,0,0,0,1,0,0,,8,0,0,1,0,0,0,0,1,0,1,0,2,,El Rapidismo omg
+24/03/2023 9:03:32,Josué,8,8803,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,1,,No se presentaron a su partida
+24/03/2023 9:53:17,Delfin,15,8803,0,0,0,1,0,0,1,0,0,,0,0,0,0,3,0,1,0,0,0,0,0,2,,
+24/03/2023 10:30:20,Delfin,20,8803,0,0,0,0,1,0,1,0,0,,0,1,0,0,0,0,1,1,1,0,1,0,2,,"Se quedo haciendo poco, le falta concistencia"
+24/03/2023 12:29:32,Mentor Wisconsin,29,8803,0,0,0,0,1,0,1,0,0,Casi se voltea,0,0,0,1,3,0,0,0,0,0,0,0,1,,Se volteó subiéndose a la charging station 
+24/03/2023 13:21:19,Pao,35,8803,0,0,0,0,0,0,1,0,0,,0,0,0,3,0,0,1,0,0,0,0,2,1,,The robot dropped all the cones at level 1 (attempts in other levels) and fell sideways at the charge station
+24/03/2023 14:32:36,Alex,44,8803,0,0,0,0,1,0,0,0,0,,0,1,0,0,2,0,1,0,0,0,0,0,1,,No tiene mucha precision. Everybot
+24/03/2023 15:29:19,Alumno Taller,51,8803,0,0,0,0,0,0,0,0,0,slow,0,0,0,0,2,0,0,1,1,1,0,0,1,,"Very slow, unstable intake. veeeerrry slow driving"
+24/03/2023 16:02:52,Delfin,56,8803,0,0,0,1,0,0,1,0,0,,0,0,0,0,2,0,1,0,0,0,0,0,2,,
+24/03/2023 17:05:56,Humberto,65,8803,0,0,0,0,1,0,1,0,0,,0,0,0,0,1,0,0,0,1,0,1,0,1,,Son muy lentos y no tan consistentes agarrando los conos de los human players.
+24/03/2023 9:00:18,Ivanna,8,8847,0,0,0,0,0,0,0,0,0,,6,0,0,2,0,0,0,0,0,0,0,0,1,0,Slow only works on the first level 
+24/03/2023 9:37:37,Delfin,13,8847,0,0,0,0,0,0,0,0,0,no se movo,7,0,0,0,0,0,1,1,1,0,1,0,3,,"Se concentro en lo que es buen, poner cubos en nivel 1"
+24/03/2023 10:17:12,Mentor Wisconsin,18,8847,0,0,0,0,0,0,0,0,0,No hizo nada,3,0,0,0,0,0,0,0,1,0,0,0,1,,Quedando 60 seg aprox se subieron a la charge station por problemas con su cableado. Un robot los golpeó y se les salió el cableado y si se seguían moviendo iban a atropellar sus cable.
+24/03/2023 13:26:41,Alex,36,8847,1,0,0,0,0,0,1,0,0,Stepped off midfiled line,4,0,0,0,0,0,1,0,0,0,0,0,4,Pushed into OP loading zone. (+15 penalty points en contra),Pushed easily. Se la estaba arriesgando jugandole muy cerca a las zonas protegidas de la alianza contraria. En una si lo metieron y en otra casi logran causar el penalty
+24/03/2023 14:17:49,Delfin,42,8847,1,0,0,0,0,0,1,0,0,,4,0,0,0,0,0,1,1,1,1,0,0,3,,"Al principio parecía que si tenía concientes todas las piezas si entraron bien, pero al final metieron un cubo en uno donde ya había uno"
+24/03/2023 14:29:05,Fátima,36,8847,1,0,0,0,0,0,1,0,0,Fue el que llegó más lejos.,0,0,0,0,0,0,1,0,0,0,0,6,2, No,"Lugar 36, es bueno aguantando golpes, se mueve aceptablemente rapido y poen varios cubo para puntos rápidos."
+24/03/2023 15:52:06,Pao,54,8847,1,0,0,0,0,0,1,0,0,,2,0,0,0,0,0,0,0,0,0,0,6,3,Se le subió a un robot ,Golpeo a un robot y se le subió un poco 
+24/03/2023 15:52:14,Delfin,54,8847,1,0,0,0,0,0,1,0,0,,4,0,0,0,0,0,0,0,0,0,0,0,4,,Buen pero creo que se echaron su tren
+24/03/2023 16:41:07,Humberto,62,8847,1,0,0,0,0,0,1,0,0,,4,0,0,0,0,0,1,0,0,0,0,28,2,,
+24/03/2023 17:23:01,Clarisa,67,8847,1,0,0,0,0,0,1,0,0,,5,0,0,0,0,0,0,0,1,1,0,0,1,,Rapidismo y super efectivo llenando la primera fila de cubos
+25/03/2023 9:04:03,Clarisa,80,8188,0,0,0,0,0,0,0,0,0,No se movio,0,0,0,0,0,0,0,0,0,0,0,120,1,,No se movio
+25/03/2023 9:14:19,Clarisa,81,4786,0,0,1,0,0,0,0,0,1,,0,0,0,0,0,2,0,0,1,1,0,0,1,,"Tiene una garra horrible, agarraba conos del human player y si se le llegaba a caer el cono en la mitad del field, iba por otro con el human player, osea, no agarra conos caidos y no piensa rapido . Estorba muchisimo a sus compañeros."
+25/03/2023 9:20:39,Clarisa,82,706,0,0,0,0,0,1,0,0,1,,2,0,1,0,0,3,0,0,1,1,1,0,1,,"Son rapidos y ponen piezas bien (hay equipo que los ponen mas rapido pero lo hacen bien.) puso varias veces dos game pieces a la ves, no se porwue no fue fault, entonces no fue problema en este match"
+25/03/2023 9:58:16,Alex,87,2202,1,0,0,0,0,0,Sí,Sí,Sí,,0,0,1,1,0,3,No,Sí,Sí,Sí,No,0,1,,Podria ser muy buen alliance picj

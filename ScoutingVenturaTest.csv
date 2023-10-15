@@ -1,0 +1,19 @@
+Marca temporal,Scouter,Match,Team,Aliance,Autonomous Cubos [AutoCubo3],Autonomous Cubos [AutoCubo2],Autonomous Cubos [AutoCubo1],Autonomous Conos [AutoCono3],Autonomous Conos [AutoCono2],Autonomous Conos [AutCono1],Auto Mobility: Left Community,Auto Charge station,Auto Comentarios Extra,Teleop Cubos [TOCubo3],Teleop Cubos [TOCubo2],Teleop Cubos [TOCubo1],Teleop Conos [TOCono3],Teleop Conos [TOCono2],Teleop Conos [TOCono1],Teleop Charge Station,Teleop Park,Disconnection Time ,Defensive Rank,TeleOp Comentarios Extras
+14/10/2023 14:20:17,Delfin,1,973,Red,0,1,0,0,0,0,Si,Nothing,FW,2,1,0,1,0,0,Engaged,Si,0,1,h
+14/10/2023 14:20:44,Pepe,1,4,Red,3,0,0,0,0,0,Si,Engaged (Balanced),,3,2,2,0,0,0,Engaged,Si,10,2,
+14/10/2023 14:21:37,Delfin,1,1138,Red,0,0,1,0,0,0,No,Engaged (Balanced),dfghjkl,2,1,2,0,0,0,Engaged,Si,0,2,gh
+14/10/2023 14:22:12,Pepe,1,589,Blue,0,0,0,3,3,0,Si,Nothing,,0,0,3,4,3,0,Engaged,Si,0,2,
+14/10/2023 14:22:24,Delfin,1,1148,Blue,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,2,Nothing,Si,0,1,
+14/10/2023 14:27:20,Delfin,3,973,Red,0,0,2,0,0,0,Si,Nothing,,0,0,0,0,1,2,"Docked  (Not touching the ground, CS not Balanced)",No,10,1,
+14/10/2023 14:28:40,Pepe,1,589,Blue,0,0,0,0,1,0,No,Nothing,,0,0,3,0,4,0,Engaged,Si,0,2,
+14/10/2023 14:31:32,Delfin,3,589,Red,0,0,0,1,0,1,Si,"Docked (Not touching the ground, but not balanced)",,0,0,3,0,1,1,Nothing,No,60,1,
+14/10/2023 14:33:51,Delfin,3,599,Red,0,1,2,0,0,0,Si,Nothing,,1,1,0,0,0,0,Nothing,Si,0,1,
+14/10/2023 14:34:06,Pepe,3,4,Blue,2,0,0,0,0,0,Si,Nothing,,2,3,3,0,0,0,Engaged,Si,21,2,
+14/10/2023 14:35:22,Pepe,3,1138,Blue,0,0,1,1,0,0,Si,Nothing,,0,0,3,2,3,0,Engaged,Si,15,2,
+14/10/2023 14:38:03,Pepe,3,1148,Blue,0,0,0,0,0,0,Si,Nothing,,1,2,1,0,2,0,Nothing,No,0,2,
+14/10/2023 14:39:42,Pepe,2,1138,Red,0,0,0,1,0,0,Si,"Docked (Not touching the ground, but not balanced)",,0,0,2,3,4,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,
+14/10/2023 14:39:55,Delfin,2,1148,Red,0,1,0,0,0,0,No,Engaged (Balanced),,2,0,1,0,1,1,Engaged,Si,0,2,
+14/10/2023 14:41:07,Delfin,2,973,Red,0,0,0,0,0,1,Si,Nothing,,0,0,2,0,1,1,Engaged,No,5,1,
+14/10/2023 14:41:25,Pepe,2,599,Blue,2,0,0,0,0,0,Si,Nothing,,0,2,3,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,25,2,
+14/10/2023 14:42:21,Pepe,2,4,Blue,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Nothing,Si,0,3,
+14/10/2023 14:42:39,Delfin,2,589,Blue,0,0,1,0,0,0,Si,Nothing,,2,0,0,1,0,0,Nothing,Si,0,1,
