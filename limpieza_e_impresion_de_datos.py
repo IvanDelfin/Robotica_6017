@@ -88,28 +88,31 @@ def tabla_por_match(dfScouting):
     dfScouting.to_csv("Tabla Por Match.csv", index=False, encoding= 'utf-8-sig')
     
 def tabla_de_promedios(dfScouting):
+    dfScouting.drop(["Aliance"], axis=1, inplace=True)
     df_mean_all = dfScouting.groupby(["Team"], as_index=False).mean()
     df_mean_all.sort_values("Score_ind_comp", ascending=False).to_csv("Promedios_Equipos.csv", index=False, encoding= 'utf-8-sig')
+    return df_mean_all
     
 def creacion_de_graficas(dfMeanAll):
-    plt.figure(figsize=(30,30))
+    plt.figure(figsize=(25,25))
     sb.heatmap(dfMeanAll.corr(), annot=True)
     plt.savefig("Graficas de Estadistica/Correlacion_promedio.png")
     
-    sb.violinplot(dfMeanAll[["Teleop Cubos [TOCubo3]", "Teleop Cubos [TOCubo2]", "Teleop Cubos [TOCubo1]", "Teleop Conos [TOCono1]", "Teleop Conos [TOCono2]", "Teleop Conos [TOCono3]"]], annot=True)
+    plt.figure(figsize=(15,10))
+    sb.violinplot(dfMeanAll[["Teleop Cubos [TOCubo3]", "Teleop Cubos [TOCubo2]", "Teleop Cubos [TOCubo1]", "Teleop Conos [TOCono1]", "Teleop Conos [TOCono2]", "Teleop Conos [TOCono3]"]])
     plt.savefig("Graficas de Estadistica/violin_promedio_grid_teleop.png")
     
 #Main
 print(f"Bienvenido a la Clean_Scouter_Cyberius\n{'='*30}")
 a = input(f"¿Te gustaría empezar la limieza de datos? (Y/N)\n>")
-if not (a == 'Y' | a == 'y'):
+if not ((a == 'Y') | (a == 'y')):
     print(f"No os me voy a ch***** a mi madre, no?\nPa que me empiezas si ni me vas a usar >:(\nP****jo")
     time.sleep(3)
     print(f"Ahora si me permites, me voy as salir pa que no me molestes")
     exit()
 
 a = input(f"Antes de empezar, favor de asegurarte que el documento de scouting este en formato CSV y se llame 'ScoutingVenturaTest.csv'\n(Inserte (Y) cuando esté listo)\n>")
-if not (a == 'Y' | a == 'y'):
+if not ((a == 'Y') | (a == 'y')):
     print(f"No os me voy a ch***** a mi madre, no?\nPa que me empiezas si ni me vas a usar >:(\nP****jo")
     time.sleep(3)
     print(f"Ahora si me permites, me voy as salir pa que no me molestes")
@@ -120,5 +123,27 @@ print(f"empezando la limpieza de datos...")
 df_final = piece_score_and_ranking_definition(score_definition(limpieza_y_tranformación(obtencion_de_datos())))
 time.sleep(1)
 
-a = input(f"Limpieza completada :D\n¿Que decearia haver con los datos?\n>(M) Creación de tabla por match\n>(P) Creación de tabla promedio\n")
-while ()
+a = input(f"Limpieza completada :D\n¿Que quiere hacer con los datos? (Favor de introducir la letra indicada en el parentesis)\n>(M) Creación de tabla por match\n>(P) Creación de tabla promedio\n>(G) Creación de graficas\n>(T) Todas las opciónes\n>(S) Salir\n\n>")
+while (not ((a == 'S') | (a == 's'))):
+    if ((a == 'M') | (a == 'm')):
+        tabla_por_match(df_final)
+    elif (((a == 'P') | (a == 'P'))):
+        tabla_de_promedios(df_final)
+    elif (((a == 'G') | (a == 'G'))):
+        creacion_de_graficas(tabla_de_promedios(df_final))
+    elif (((a == 'T') | (a == 't'))):
+        tabla_por_match(df_final)
+        dfMean = tabla_de_promedios(df_final)
+        creacion_de_graficas(dfMean)
+    elif (((a == 'S') | (a == 's'))):
+        print(f"Gracias por usar el programa de limpieza de datos\nNos vemos y recuerda que eres una persona increibla :D")
+        time.sleep(3)
+        exit()
+    else:
+        print(f"Perdón pero su respuesta no fue una entrada valida...\nFavor de introducir la letra indicada en el parentesis")
+        time.sleep(3)
+        
+    a = input(f"¿Que quiere hacer con los datos? (Favor de introducir la letra indicada en el parentesis)\n>(M) Creación de tabla por match\n>(P) Creación de tabla promedio\n>(G) Creación de graficas\n>(T) Todas las opciónes\n>(S) Salir\n\n>")
+    
+print(f"Gracias por usar el programa de limpieza de datos\nNos vemos y recuerda que eres una persona increibla :D")
+time.sleep(3)
