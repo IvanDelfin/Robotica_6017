@@ -67,7 +67,8 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
         BlueScore += temp_team_df[temp_team_df["Team"] == team_num]["Score_ind_comp"][0]
         BlueRPActivation += temp_team_df["Ranking_Point_Activition"][0]
         BlueRPSustanability += temp_team_df["Ranking_Point_Sustanability"][0]
-        
+    
+    os.system('cls')    
     if(RedScore > BlueScore):
         print(f"La alianza ROJA ganará con un puntaje de:\n{RedScore} contra {BlueScore}\nEquipo conformado por:")
         print(f"{list_teams_red[0]} {list_teams_red[1]} {list_teams_red[2]}")
@@ -81,7 +82,7 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
         print(f"Ranking Point por Sustanability!!!!")
         amountRP += 1
     if((RedRPActivation/3)>=70):
-        print(f"Ranking Point por Sustanability!!!!")
+        print(f"Ranking Point por Activation!!!!")
         amountRP += 1
     print(f"Tendrán un total de {amountRP} de RP")
     
@@ -93,7 +94,7 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
         print(f"Ranking Point por Sustanability!!!!")
         amountRP += 1
     if((BlueRPActivation/3)>=70):
-        print(f"Ranking Point por Sustanability!!!!")
+        print(f"Ranking Point por Activatio!!!!")
         amountRP += 1
     print(f"Tendrán un total de {amountRP} de RP")
     
@@ -108,12 +109,12 @@ print(f"{'='*40}\nBienvenido al Analizer_6017... mill XD\n{'='*40}")
 
 a = input(f"\nPrimera vez usando el programa? (Y/N)\n>")
 
-if((a == 'Y') | (a == 'y')):
-    print(f"Obteniendo datos limpipz generados por 'Clean_Scouter_Cyberius'...")
-    dfMatch, dfPromedio = obtencion_de_datos()
-    time.sleep(2)
-    print("Listo :D")
+print(f"Obteniendo datos limpipz generados por 'Clean_Scouter_Cyberius'...")
+dfMatch, dfPromedio = obtencion_de_datos()
+time.sleep(2)
+print("Listo :D")
 
+if((a == 'Y') | (a == 'y')):
     print(f"Generando graficas de los equipos y sus desempeños individuales")
     train_df = grafica_de_proceso_general(dfMatch)
     grafica_de_proceso_por_equipo(train_df, dfPromedio)
