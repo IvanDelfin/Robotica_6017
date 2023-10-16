@@ -4,6 +4,7 @@ import seaborn as sb
 import pandas as pd
 import numpy as np
 import time
+import os
 
 def obtencion_de_datos():
     dfScouting = pd.read_csv("ScoutingVenturaTest.csv")
@@ -87,7 +88,8 @@ def tabla_por_match(dfScouting):
     dfScouting.to_csv("Tabla Por Match.csv", index=False, encoding= 'utf-8-sig')
     
 def tabla_de_promedios(dfScouting):
-    dfScouting.drop(["Aliance"], axis=1, inplace=True)
+    if ("Aliance" in dfScouting.columns):
+        dfScouting.drop(["Aliance"], axis=1, inplace=True)
     df_mean_all = dfScouting.groupby(["Team"], as_index=False).mean()
     df_mean_all.sort_values("Score_ind_comp", ascending=False).to_csv("Promedios_Equipos.csv", index=False, encoding= 'utf-8-sig')
     return df_mean_all
@@ -125,6 +127,7 @@ print(f"empezando la limpieza de datos...")
 
 df_final = piece_score_and_ranking_definition(score_definition(limpieza_y_tranformación(obtencion_de_datos())))
 time.sleep(1)
+os.system('cls')
 
 a = input(f"Limpieza completada :D\n¿Que quiere hacer con los datos? (Favor de introducir la letra indicada en el parentesis)\n>(M) Creación de tabla por match\n>(P) Creación de tabla promedio\n>(G) Creación de graficas\n>(T) Todas las opciónes\n>(S) Salir\n\n>")
 while (not ((a == 'S') | (a == 's'))):
@@ -146,6 +149,7 @@ while (not ((a == 'S') | (a == 's'))):
         print(f"Perdón pero su respuesta no fue una entrada valida...\nFavor de introducir la letra indicada en el parentesis")
         time.sleep(3)
         
+    os.system('cls')
     a = input(f"¿Que quiere hacer con los datos? (Favor de introducir la letra indicada en el parentesis)\n>(M) Creación de tabla por match\n>(P) Creación de tabla promedio\n>(G) Creación de graficas\n>(T) Todas las opciónes\n>(S) Salir\n\n>")
     
 print(f"Gracias por usar el programa de limpieza de datos\nNos vemos y recuerda que eres una persona increibla :D")
