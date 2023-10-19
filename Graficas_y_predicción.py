@@ -40,15 +40,18 @@ def grafica_de_proceso_por_equipo(train_data, dfPromedioPorEquipo):
     return dfPromedioPorEquipo
     
 def prediccion_de_futuros_matches(dfPromedioPorEquipo):
+    winner_of_match = ''
     RedScore = 0
     BlueScore = 0
     RedRPActivation = 0
     BlueRPActivation = 0
     RedRPSustanability = 0
     BlueRPSustanability = 0
-    amountRP = 0
+    amountRPRed = 0
+    amountRPBlue = 0
     list_teams_red = []
     list_teams_blue = []
+    num_match = int(input(f"¿Cuál match se va a predecir?\n>"))
     for i in range(3):
         team_num = int(input(f"Equipo en Red {i+1}:\n>"))
         list_teams_red.append(team_num)
@@ -72,33 +75,39 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
     if(RedScore > BlueScore):
         print(f"La alianza ROJA ganará con un puntaje de:\n{RedScore} contra {BlueScore}\nEquipo conformado por:")
         print(f"{list_teams_red[0]} {list_teams_red[1]} {list_teams_red[2]}")
-        amountRP += 2
+        winner_of_match = 'ROJO'
+        amountRPRed += 2
     elif(RedScore < BlueScore):
         print(f"La alianza Azul ganará con un puntaje de:\n{BlueScore} contra {RedScore}\nEquipo conformado por:")
         print(f"{list_teams_blue[0]} {list_teams_blue[1]} {list_teams_blue[2]}")
+        amountRPBlue += 2
+        winner_of_match = 'BLUE'
     print(f"{'='*30}\nRanking Points ganados\n{'='*30}\n\nAlianza Roja: {list_teams_red[0]} {list_teams_red[1]} {list_teams_red[2]}")
     
     if((RedRPSustanability/3)>=75):
         print(f"Ranking Point por Sustanability!!!!")
-        amountRP += 1
+        amountRPRed += 1
     if((RedRPActivation/3)>=70):
         print(f"Ranking Point por Activation!!!!")
-        amountRP += 1
-    print(f"Tendrán un total de {amountRP} de RP")
+        amountRPRed += 1
+    print(f"Tendrán un total de {amountRPRed} de RP")
     
-    amountRP = 0
     
     print(f"{'='*30}\nAlianza Azul: {list_teams_blue[0]} {list_teams_blue[1]} {list_teams_blue[2]}")
     
     if((BlueRPSustanability/3)>=75):
         print(f"Ranking Point por Sustanability!!!!")
-        amountRP += 1
+        amountRPBlue += 1
     if((BlueRPActivation/3)>=70):
         print(f"Ranking Point por Activatio!!!!")
-        amountRP += 1
-    print(f"Tendrán un total de {amountRP} de RP")
+        amountRPBlue += 1
+    print(f"Tendrán un total de {amountRPBlue} de RP")
+
+    dict_prediction = {'Match':num_match, 'Ganador': winner_of_match, 'Red 1':list_teams_red[0], 'Red 2':list_teams_red[1], 'Red 3':list_teams_red[2], 'Blue 1':list_teams_blue[0], 'Blue 2':list_teams_blue[1], 'Blue 3':list_teams_blue[2], 'Red Score':RedScore, 'Blue Score':BlueScore, 'Red Ranking':amountRPRed, 'Blue Ranking':amountRPBlue}
+    predict_df = pd.DataFrame.from_dict(dict_prediction, orient='index').T
     
     stay = input(f"\n\nContinuar?")
+    return predict_df
     
     
 # Main
@@ -127,10 +136,13 @@ print("Ahora si, se viene lo bueno")
 time.sleep(2)
 os.system('cls')
 
-
+list_prediccions = []
 a = input("Quisiera hacer una predicción de partido? (Y/N)\n>")
 while ((a == 'Y') | (a == 'y')):
-    prediccion_de_futuros_matches(dfPromedio)
+    list_prediccions.append(prediccion_de_futuros_matches(dfPromedio))
     a = input("Quisiera hacer otra predicción de partido? (Y/N)\n>")
+
+all_prediccions = pd.concat(list_prediccions, ignore_index=True)
+all_prediccions.to_csv("predicciónes_de_atches.csv", index=False, encoding="utf-8-sig")
     
 print(f"Fue un honor ser utilizando, hasta luego y mucha suerte :D")
