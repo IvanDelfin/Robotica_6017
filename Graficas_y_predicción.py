@@ -34,6 +34,7 @@ def grafica_de_proceso_por_equipo(train_data, dfPromedioPorEquipo):
         plt.figure(figsize=(10,10))
         sb.regplot(data=temp_team, x="Match", y="Score_ind_comp").set(title=f"Team: {i} with slope of {slope}")
         plt.savefig(f"Graficas de Equipos/Equipo {i}/regresión puntaje individual.png")
+        plt.close('all')
     dfPromedioPorEquipo.sort_values("Team", inplace=True)
     dfPromedioPorEquipo["Average_Dif"] = list_of_Slope
     dfPromedioPorEquipo.to_csv("Promedios_Equipos.csv", index=False, encoding= 'utf-8-sig')
@@ -53,7 +54,7 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
     list_teams_blue = []
     num_match = int(input(f"¿Cuál match se va a predecir?\n>"))
     for i in range(3):
-        team_num = int(input(f"Equipo en Red {i+1}:\n>"))
+        team_num = float(input(f"Equipo en Red {i+1}:\n>"))
         list_teams_red.append(team_num)
         temp_team_df = dfPromedioPorEquipo[dfPromedioPorEquipo["Team"] == team_num]
         temp_team_df.reset_index(drop=True, inplace=True)
@@ -62,7 +63,7 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
         RedRPActivation += temp_team_df["Ranking_Point_Activition"][0]
         RedRPSustanability += temp_team_df["Ranking_Point_Sustanability"][0]
     for i in range(3):
-        team_num = int(input(f"Equipo en Blue {i+1}:\n>"))
+        team_num = float(input(f"Equipo en Blue {i+1}:\n>"))
         list_teams_blue.append(team_num)
         temp_team_df = dfPromedioPorEquipo[dfPromedioPorEquipo["Team"] == team_num]
         temp_team_df.reset_index(drop=True, inplace=True)
@@ -84,10 +85,10 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
         winner_of_match = 'BLUE'
     print(f"{'='*30}\nRanking Points ganados\n{'='*30}\n\nAlianza Roja: {list_teams_red[0]} {list_teams_red[1]} {list_teams_red[2]}")
     
-    if((RedRPSustanability/3)>=75):
+    if((RedRPSustanability/3)>=0.75):
         print(f"Ranking Point por Sustanability!!!!")
         amountRPRed += 1
-    if((RedRPActivation/3)>=70):
+    if((RedRPActivation/3)>=0.65):
         print(f"Ranking Point por Activation!!!!")
         amountRPRed += 1
     print(f"Tendrán un total de {amountRPRed} de RP")
@@ -95,10 +96,10 @@ def prediccion_de_futuros_matches(dfPromedioPorEquipo):
     
     print(f"{'='*30}\nAlianza Azul: {list_teams_blue[0]} {list_teams_blue[1]} {list_teams_blue[2]}")
     
-    if((BlueRPSustanability/3)>=75):
+    if((BlueRPSustanability/3)>=0.75):
         print(f"Ranking Point por Sustanability!!!!")
         amountRPBlue += 1
-    if((BlueRPActivation/3)>=70):
+    if((BlueRPActivation/3)>=0.65):
         print(f"Ranking Point por Activatio!!!!")
         amountRPBlue += 1
     print(f"Tendrán un total de {amountRPBlue} de RP")
