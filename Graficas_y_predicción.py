@@ -143,6 +143,6 @@ while ((a == 'Y') | (a == 'y')):
     a = input("Quisiera hacer otra predicción de partido? (Y/N)\n>")
 
 all_prediccions = pd.concat(list_prediccions, ignore_index=True)
-all_prediccions.to_csv("predicciónes_de_atches.csv", index=False, encoding="utf-8-sig")
+all_prediccions.to_csv("predicciónes_de_matches.csv", index=False, encoding="utf-8-sig")
     
 print(f"Fue un honor ser utilizando, hasta luego y mucha suerte :D")

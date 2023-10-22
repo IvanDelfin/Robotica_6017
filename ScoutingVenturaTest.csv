@@ -1,19 +1,312 @@
-Marca temporal,Scouter,Match,Team,Aliance,Autonomous Cubos [AutoCubo3],Autonomous Cubos [AutoCubo2],Autonomous Cubos [AutoCubo1],Autonomous Conos [AutoCono3],Autonomous Conos [AutoCono2],Autonomous Conos [AutCono1],Auto Mobility: Left Community,Auto Charge station,Auto Comentarios Extra,Teleop Cubos [TOCubo3],Teleop Cubos [TOCubo2],Teleop Cubos [TOCubo1],Teleop Conos [TOCono3],Teleop Conos [TOCono2],Teleop Conos [TOCono1],Teleop Charge Station,Teleop Park,Disconnection Time ,Defensive Rank,TeleOp Comentarios Extras
-14/10/2023 14:20:17,Delfin,1,973,Red,0,1,0,0,0,0,Si,Nothing,FW,2,1,0,1,0,0,Engaged,Si,0,1,h
-14/10/2023 14:20:44,Pepe,1,4,Red,3,0,0,0,0,0,Si,Engaged (Balanced),,3,2,2,0,0,0,Engaged,Si,10,2,
-14/10/2023 14:21:37,Delfin,1,1138,Red,0,0,1,0,0,0,No,Engaged (Balanced),dfghjkl,2,1,2,0,0,0,Engaged,Si,0,2,gh
-14/10/2023 14:22:12,Pepe,1,589,Blue,0,0,0,3,3,0,Si,Nothing,,0,0,3,4,3,0,Engaged,Si,0,2,
-14/10/2023 14:22:24,Delfin,1,1148,Blue,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,2,Nothing,Si,0,1,
-14/10/2023 14:27:20,Delfin,3,973,Red,0,0,2,0,0,0,Si,Nothing,,0,0,0,0,1,2,"Docked  (Not touching the ground, CS not Balanced)",No,10,1,
-14/10/2023 14:28:40,Pepe,1,589,Blue,0,0,0,0,1,0,No,Nothing,,0,0,3,0,4,0,Engaged,Si,0,2,
-14/10/2023 14:31:32,Delfin,3,589,Red,0,0,0,1,0,1,Si,"Docked (Not touching the ground, but not balanced)",,0,0,3,0,1,1,Nothing,No,60,1,
-14/10/2023 14:33:51,Delfin,3,599,Red,0,1,2,0,0,0,Si,Nothing,,1,1,0,0,0,0,Nothing,Si,0,1,
-14/10/2023 14:34:06,Pepe,3,4,Blue,2,0,0,0,0,0,Si,Nothing,,2,3,3,0,0,0,Engaged,Si,21,2,
-14/10/2023 14:35:22,Pepe,3,1138,Blue,0,0,1,1,0,0,Si,Nothing,,0,0,3,2,3,0,Engaged,Si,15,2,
-14/10/2023 14:38:03,Pepe,3,1148,Blue,0,0,0,0,0,0,Si,Nothing,,1,2,1,0,2,0,Nothing,No,0,2,
-14/10/2023 14:39:42,Pepe,2,1138,Red,0,0,0,1,0,0,Si,"Docked (Not touching the ground, but not balanced)",,0,0,2,3,4,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,
-14/10/2023 14:39:55,Delfin,2,1148,Red,0,1,0,0,0,0,No,Engaged (Balanced),,2,0,1,0,1,1,Engaged,Si,0,2,
-14/10/2023 14:41:07,Delfin,2,973,Red,0,0,0,0,0,1,Si,Nothing,,0,0,2,0,1,1,Engaged,No,5,1,
-14/10/2023 14:41:25,Pepe,2,599,Blue,2,0,0,0,0,0,Si,Nothing,,0,2,3,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,25,2,
-14/10/2023 14:42:21,Pepe,2,4,Blue,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Nothing,Si,0,3,
-14/10/2023 14:42:39,Delfin,2,589,Blue,0,0,1,0,0,0,Si,Nothing,,2,0,0,1,0,0,Nothing,Si,0,1,
+Marca temporal,Scouter,Match,Team,Autonomous Cubos [AutoCubo3],Autonomous Cubos [AutoCubo2],Autonomous Cubos [AutoCubo1],Autonomous Conos [AutoCono3],Autonomous Conos [AutoCono2],Autonomous Conos [AutCono1],Auto Mobility: Left Community,Auto Charge station,Auto Comentarios Extra,Teleop Cubos [TOCubo3],Teleop Cubos [TOCubo2],Teleop Cubos [TOCubo1],Teleop Conos [TOCono3],Teleop Conos [TOCono2],Teleop Conos [TOCono1],Teleop Charge Station,Teleop Park,Disconnection Time ,Defensive Rank,TeleOp Comentarios Extras,Aliance
+21/10/2023 10:51:18,delfin,1,9282,0,1,0,0,0,0,No,Nothing,,0,1,0,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 10:51:30,delfin,1,696.2,1,0,0,0,0,0,Si,Nothing,,0,1,4,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 10:51:57,leah,1,4415,0,0,0,1,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,es lentisimo ,Blue
+21/10/2023 10:51:57,clarisa,1,3128.2,0,0,0,0,0,0,No,Nothing,,2,0,1,2,0,0,Nothing,No,29,3,,Blue
+21/10/2023 10:55:16,karla ,1,1148.2,0,0,0,0,0,0,No,Nothing,,1,1,1,0,1,0,Nothing,Si,0,1,Se mueve mucho y se ve inestable cuando se mueve ,Red
+21/10/2023 10:58:17,delfin,2,599.2,0,0,0,0,0,0,No,Nothing,No se presentó,0,0,0,0,0,0,Nothing,No,0,1,No se presentó,Red
+21/10/2023 11:00:02,clarisa ,2,3128,0,0,0,1,0,0,No,Engaged (Balanced),,0,0,0,0,0,0,Nothing,No,120,2,Se callo los primeros 2 segundos 💀,Blue
+21/10/2023 11:00:32,leah,2,4414,0,0,0,1,0,0,Si,Nothing,,2,2,0,0,0,3,Engaged,Si,0,3,,Blue
+21/10/2023 11:00:46,mangie,3,3647.2,0,0,1,0,0,0,Si,Nothing,,0,0,7,0,0,0,Nothing,Si,0,2,,Red
+21/10/2023 11:09:33,clarisa,3,4414.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,No se presento al match UGHHHHH ,Blue
+21/10/2023 11:09:55,leah,3,6647,1,0,0,0,0,0,Si,"Docked (Not touching the ground, but not balanced)",,1,0,7,0,0,0,Engaged,Si,0,3,,Blue
+21/10/2023 11:10:05,mangie,3,4,0,0,0,1,0,0,Si,Nothing,,1,0,0,0,2,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 11:10:51,Rebeca,3,5199,0,0,1,0,0,0,Si,Nothing,,1,0,3,3,0,0,"Docked  (Not touching the ground, CS not Balanced)",No,0,2,,Red
+21/10/2023 11:11:24,karla,3,4079,0,0,0,0,0,0,No,Nothing,,1,0,1,0,0,0,Nothing,No,0,1,,Red
+21/10/2023 11:19:40,leah,4,589,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,0,Engaged,Si,0,2,muy pacifico,Blue
+21/10/2023 11:19:41,clarisa,4,3925,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,120,2,NO SE FUCKING MOVIO 💀💀💀💀,Blue
+21/10/2023 11:19:45,Rebeca,4,359,0,1,1,1,0,0,No,"Docked (Not touching the ground, but not balanced)",,1,1,0,3,2,0,Engaged,Si,0,2,Buen ciclo nivel 3,Blue
+21/10/2023 11:19:47,sofy garcia,4,7157,1,0,0,0,0,0,Si,Nothing,Muy rápido ,2,0,4,2,0,2,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 11:19:49,mangie,4,1197,0,0,0,1,0,0,Si,Nothing,,0,0,2,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 11:21:01,karla,4,3512,0,0,0,1,0,0,No,Nothing,,0,1,0,0,1,0,"Docked  (Not touching the ground, CS not Balanced)",No,47,2,Despues de un golpe con un azul  se paro el robot ,Red
+21/10/2023 11:27:25,sofy,5,1138,0,0,0,0,0,0,No,Nothing,,0,1,4,0,0,0,Engaged,No,0,2,,Red
+21/10/2023 11:27:41,leah,5,3759,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 11:27:42,mangie,5,6017,0,1,0,0,0,0,No,Nothing,,3,1,1,0,0,0,Nothing,No,34,3,,Red
+21/10/2023 11:27:45,Rebeca,5,8006.2,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,0,3,Tanque,Blue
+21/10/2023 11:27:59,karla,5,4276,0,1,0,0,0,0,No,Nothing,,1,1,1,1,0,0,Engaged,Si,0,3,,Red
+21/10/2023 11:28:02,clarisa,5,7415,0,0,1,0,0,0,No,Nothing,,0,0,5,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 11:36:14,sofy,6,8006,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Engaged,No,0,3,,Red
+21/10/2023 11:36:30,Rebeca,6,9084,0,0,1,1,0,0,Si,Nothing,,1,0,0,3,0,0,Nothing,No,0,2,,Blue
+21/10/2023 11:36:36,mangie,6,2659,0,0,0,1,0,0,Si,Nothing,,1,3,1,4,3,1,Engaged,Si,0,2,,Red
+21/10/2023 11:36:52,leah,6,696,1,0,0,0,0,0,Si,Engaged (Balanced),,0,0,0,0,0,0,Nothing,Si,60,1,se volteo ,Blue
+21/10/2023 11:37:25,clarisa,5,1148,1,0,0,0,0,0,Si,Engaged (Balanced),,0,0,0,0,0,0,Nothing,Si,0,1,PESIMO CRITICAL THINKING NMMS,Blue
+21/10/2023 11:37:30,karla,6,7102,0,1,0,0,0,0,No,Nothing,,0,2,0,0,0,0,Nothing,No,0,2,,Red
+21/10/2023 11:45:42,delfin,7,5887,0,0,0,0,0,0,No,Nothing,,0,2,0,0,0,0,Engaged,No,0,2,,Red
+21/10/2023 11:45:58,leah,7,599,0,0,1,0,0,0,Si,Engaged (Balanced),,1,0,0,2,1,2,"Docked  (Not touching the ground, CS not Balanced)",Si,0,3,,Blue
+21/10/2023 11:46:02,mangie,7,2102,0,0,0,0,0,0,No,Nothing,,1,3,2,0,2,0,Engaged,Si,0,2,,Red
+21/10/2023 11:46:19,Rebeca,7,3512.2,0,0,0,1,0,0,No,Nothing,,0,0,2,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,32,2,,Blue
+21/10/2023 11:46:41,karla,7,3647,0,0,0,0,0,0,No,"Docked (Not touching the ground, but not balanced)",,0,1,0,1,0,2,Nothing,Si,28,3,Se subio al doc como con un brinco y cuando bajo  de ahi se apago ,Red
+21/10/2023 11:47:13,clarisa ,7,4322,0,0,0,1,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 11:52:29,mangie,9,696.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,no se presentó,Red
+21/10/2023 12:00:43,leah,8,1138,0,0,0,1,0,0,Si,Engaged (Balanced),,0,0,0,2,0,3,Engaged,Si,0,3,,Blue
+21/10/2023 12:00:49,delfin,8,973,0,0,0,1,0,0,Si,Engaged (Balanced),,1,1,5,1,2,0,Engaged,Si,0,2,Buenos ciclos,Red
+21/10/2023 12:01:00,Rebeca,8,4079,0,0,0,0,0,0,Si,Nothing,Le sigió dando sin parar para en frente Invadió la community roja,0,0,1,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 12:01:48,clarisa,8,3925,0,0,0,0,0,0,No,Nothing,,0,0,3,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 12:08:55,delfin,9,3647.2,0,0,1,0,0,0,Si,Nothing,,0,0,4,0,0,0,Nothing,No,5,1,,Red
+21/10/2023 12:09:08,leah,9,1197,0,0,0,1,0,0,Si,Nothing,,0,0,0,3,0,0,Nothing,Si,0,3,,Blue
+21/10/2023 12:09:08,clarisa ,9,4276,1,0,0,0,0,0,Si,Engaged (Balanced),,3,2,3,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 12:09:09,Rebeca,9,589,0,0,0,0,0,0,Si,Nothing,Puso cubo pero rebotó y se salió ,0,0,3,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 12:09:37,mangie,9,3863,0,0,1,0,0,0,No,Nothing,,0,0,1,2,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,le dió un ataque esquizofrenico que duró 20 segundos,Red
+21/10/2023 12:09:58,karla,9,3128,0,0,0,3,0,0,No,Engaged (Balanced),,2,0,3,2,0,3,Engaged,Si,0,2,,Red
+21/10/2023 12:18:40,Rebeca,10,4322,0,0,0,0,0,0,Si,Nothing,,0,0,0,1,0,3,Engaged,Si,0,2,,Blue
+21/10/2023 12:18:43,karla,10,599,1,0,0,0,0,0,No,Engaged (Balanced),,1,1,0,2,2,0,Engaged,Si,0,3,,Red
+21/10/2023 12:18:45,mangie,10,4414,0,0,0,3,0,0,Si,Nothing,,1,1,4,2,0,1,Nothing,Si,0,3,,Red
+21/10/2023 12:18:45,delfin,10,8006.2,0,0,0,0,0,0,Si,Nothing,,1,0,0,0,0,0,Engaged,Si,0,1,Juega defensa contra alianza,Red
+21/10/2023 12:18:48,leah,10,7102,0,0,0,0,0,0,Si,Nothing,,1,1,0,0,0,0,Engaged,Si,0,2,pudo defenderse mas ,Blue
+21/10/2023 12:18:48,clarisa,10,1148.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,100,2,,Blue
+21/10/2023 12:30:29,leah,11,3128.2,0,0,0,1,0,0,Si,Engaged (Balanced),,1,0,0,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,60,2,se desconecto ,Blue
+21/10/2023 12:30:29,Rebeca,11,3512.2,0,0,0,0,0,0,No,Nothing,,0,0,0,1,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,7,2,,Blue
+21/10/2023 12:30:33,mangie,11,5124,0,0,0,0,0,0,Si,Nothing,,2,2,7,0,0,0,Engaged,Si,0,3,,Red
+21/10/2023 12:30:55,clarisa,11,9084,0,0,1,0,0,1,Si,Nothing,,0,0,3,0,0,0,Nothing,No,0,2,,Blue
+21/10/2023 12:31:06,delfin,11,4414.2,1,0,0,0,0,1,No,Engaged (Balanced),,2,2,7,0,0,0,Engaged,Si,0,2,Hizo todos los cubos solo,Red
+21/10/2023 12:38:36,delfin,12,4.2,0,0,0,0,0,0,No,Nothing,No vino,0,0,0,0,0,0,Nothing,No,0,1,No vino,Red
+21/10/2023 12:38:51,Rebeca,12,8006,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,1,Engaged,Si,0,3,,Blue
+21/10/2023 12:39:04,leah,12,3647,1,1,0,0,0,0,Si,Nothing,,0,0,3,1,2,1,"Docked  (Not touching the ground, CS not Balanced)",No,0,3,,Blue
+21/10/2023 12:39:04,mangie,12,4,0,0,0,0,1,0,Si,Nothing,,0,1,1,0,0,0,Engaged,Si,0,1,woke and chose violence,Red
+21/10/2023 12:39:12,clarisa ,12,696,0,0,0,1,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,Si,120,2,,Blue
+21/10/2023 12:39:40,karla,12,6647,1,0,0,0,0,0,Si,Nothing,,1,1,0,0,0,1,Nothing,Si,0,1,,Red
+21/10/2023 12:47:21,Rebeca,13,3512,0,0,0,1,0,0,No,Engaged (Balanced),,1,0,3,0,0,1,Nothing,No,0,2,,Blue
+21/10/2023 12:47:23,leah,13,3759,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 12:47:29,sofy,13,1148,0,0,0,0,0,0,No,Nothing,,0,0,3,0,0,0,Nothing,No,23,1,,Red
+21/10/2023 12:48:01,mangie,13,2102,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,bad connection,1,ataques esquizofrenicos,Red
+21/10/2023 12:48:06,clarisa,13,6647.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 12:48:08,karla,13,359,1,0,0,1,0,0,Si,Engaged (Balanced),,1,1,0,2,2,3,"Docked  (Not touching the ground, CS not Balanced)",No,0,2,,Red
+21/10/2023 12:55:21,Rebeca,14,7157,0,0,0,0,0,0,No,"Docked (Not touching the ground, but not balanced)",,0,2,2,1,2,0,Engaged,Si,0,2,,Blue
+21/10/2023 12:55:23,karla,14,9282,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,80,2,,Red
+21/10/2023 12:55:27,leah,14,2659,0,0,0,3,0,0,Si,Nothing,,1,0,0,3,2,0,Engaged,Si,0,3,,Blue
+21/10/2023 12:55:37,mangie,14,6017,1,0,0,0,0,0,No,Nothing,,1,0,0,0,0,0,Nothing,No,100,2,,Red
+21/10/2023 12:55:49,sofy,14,4415,0,0,0,0,0,0,Si,Nothing,,1,3,8,0,0,0,Nothing,No,0,2,Hizo foul una vez,Red
+21/10/2023 12:55:59,clarisa,14,5887,0,0,0,1,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,Si,80,2,,Blue
+21/10/2023 13:03:28,Rebeca,15,5199,0,0,0,0,0,0,Si,Nothing,,1,0,5,4,1,0,Engaged,Si,0,2,,Blue
+21/10/2023 13:03:29,mangie,15,589,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,0,0,Engaged,Si,bad connection,1,menuda esquizofrenia,Red
+21/10/2023 13:03:35,sofy,15,4,0,0,0,0,0,1,No,Nothing,,0,0,1,0,2,0,Engaged,No,0,2,"Muy lento, un poco inestable",Red
+21/10/2023 13:03:36,leah,15,5124,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,no hiso nada ,Blue
+21/10/2023 13:03:50,clarisa,15,599,1,0,0,0,0,0,Si,Nothing,,1,0,0,2,1,1,Engaged,Si,0,2,,Blue
+21/10/2023 13:04:16,karla,15,7415,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Nothing,Si,0,3,,Red
+21/10/2023 13:10:59,sofy,16,7102,0,0,0,0,0,0,No,Engaged (Balanced),,0,0,4,0,0,0,Engaged,No,6,2,,Red
+21/10/2023 13:11:03,Rebeca,16,3512.2,0,0,0,1,0,0,Si,Nothing,,2,0,1,1,1,1,Engaged,Si,0,2,,Blue
+21/10/2023 13:11:10,leah,16,359,1,0,0,1,0,0,Si,Engaged (Balanced),,2,0,0,2,0,0,Engaged,Si,30,3,,Blue
+21/10/2023 13:11:13,mangie,16,6647,1,0,0,0,0,0,Si,Nothing,,0,0,1,0,0,1,Engaged,Si,0,3,,Red
+21/10/2023 13:11:24,clarisa,16,599.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 13:11:44,karla,16,1148,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,70,1,No se movio nada ,Red
+21/10/2023 13:19:11,sofy,17,3512,0,0,0,0,1,0,Si,Nothing,,2,0,0,1,2,0,Engaged,Si,0,2,,Red
+21/10/2023 13:19:17,mangie,17,3647,0,0,0,1,0,0,Si,Nothing,,2,1,0,4,1,0,Engaged,Si,0,3,,Red
+21/10/2023 13:19:25,leah,17,8006.2,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,no hico nada medio defendio ,Blue
+21/10/2023 13:19:30,Rebeca,17,1148.2,0,0,0,0,0,0,No,Nothing,,0,0,2,0,0,2,Nothing,No,0,2,,Blue
+21/10/2023 13:20:04,clarisa,17,4415,0,0,0,0,0,1,No,Nothing,,1,1,1,3,0,1,Engaged,Si,0,3,,Blue
+21/10/2023 13:20:15,karla,17,4079,0,0,0,0,0,0,No,Nothing,,1,1,1,0,0,0,Engaged,No,0,3,,Red
+21/10/2023 13:30:40,leah,18,4.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,60,2,no hizo nada no se movio ,Blue
+21/10/2023 13:30:42,Rebeca,18,2102,0,0,0,0,0,0,No,Nothing,,0,0,1,1,0,0,Engaged,No,5,2,,Blue
+21/10/2023 13:30:43,mangie,18,9084,1,0,0,0,0,0,Si,Nothing,,0,1,0,2,0,1,Engaged,Si,0,2,,Red
+21/10/2023 13:30:55,sofy,18,4276,0,1,0,0,0,0,No,Nothing,,0,1,5,0,0,0,Nothing,No,7,2,,Red
+21/10/2023 13:31:17,clarisa ,18,6017,0,0,0,0,0,1,No,Nothing,,3,0,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 13:31:24,karla,18,696.2,1,0,0,0,0,0,Si,Nothing,,1,2,0,0,0,0,Nothing,No,35,2,Como a los 11 segundos de desconectarse se quiso mover de nuevo pero no lo logro ,Red
+21/10/2023 13:35:24,leah,19,696,0,0,0,0,0,0,No,Nothing,no vino,0,0,0,0,0,0,Nothing,No,0,1,no vino ,Blue
+21/10/2023 13:37:23,Rebeca,19,9282,0,0,0,0,0,0,No,Nothing,,0,0,2,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 13:37:34,mangie,19,1138,0,0,0,0,0,0,Si,Nothing,,2,0,2,3,1,2,Engaged,Si,0,2,,Red
+21/10/2023 13:37:45,sofy,19,3128,0,0,0,0,0,0,No,"Docked (Not touching the ground, but not balanced)",,0,0,4,2,0,0,Engaged,Si,0,2,Avento 5 cubos a la community como estrategia,Red
+21/10/2023 13:37:59,clarisa,18,6647.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 13:38:20,karla,19,4322,0,0,0,1,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,50,2,El robot comenzo a humear ,Red
+21/10/2023 13:46:32,Rebeca,20,3863,0,0,0,0,0,0,No,Nothing,,0,0,0,0,1,1,Engaged,Si,0,2,,Blue
+21/10/2023 13:46:34,leah,20,4414.2,0,0,0,0,0,0,Si,Engaged (Balanced),,1,1,5,0,0,0,Engaged,Si,0,3,,Blue
+21/10/2023 13:46:37,mangie,20,2659,0,0,0,1,0,0,Si,Engaged (Balanced),,3,0,2,3,0,0,Engaged,Si,0,3,,Red
+21/10/2023 13:46:49,sofy,20,3925,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,Nothing,No,63,2,"Muy malo, inestable, lento",Red
+21/10/2023 13:46:54,clarisa,20,7415,0,0,0,0,0,0,No,Nothing,,0,0,0,0,2,0,Nothing,No,50,2,,Blue
+21/10/2023 13:47:16,karla,20,3647.2,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 13:55:23,mangie,21,8006,0,0,0,0,0,0,Si,Nothing,,1,0,3,4,0,0,Engaged,Si,0,2,,Red
+21/10/2023 13:55:25,sofy,21,5887,0,0,0,0,0,0,No,Nothing,,0,2,1,0,1,0,Nothing,No,23,2,,Red
+21/10/2023 13:55:27,Rebeca,21,1197,0,0,0,1,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,60,2,,Blue
+21/10/2023 13:55:27,leah,21,3128.2,0,0,0,1,0,0,Si,"Docked (Not touching the ground, but not balanced)",,2,1,4,1,0,0,Nothing,Si,0,3,,Blue
+21/10/2023 13:55:36,clarisa,21,4414,0,0,0,3,1,0,No,Nothing,,1,1,2,0,1,2,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 13:55:48,karla,21,5199,0,0,1,0,0,0,Si,Engaged (Balanced),,0,0,3,3,0,0,Nothing,No,0,3,,Red
+21/10/2023 14:00:59,mangie,22,6647.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,No se presentó,Red
+21/10/2023 14:03:16,karla,22,973,1,0,0,1,0,0,Si,Engaged (Balanced),,1,1,1,1,2,1,Engaged,No,0,3,,Red
+21/10/2023 14:03:39,sofy,22,9084,0,0,1,1,0,0,Si,Nothing,,0,1,1,3,1,0,Engaged,Si,0,2,,Red
+21/10/2023 14:03:40,leah,22,3647,0,0,0,1,0,0,No,Nothing,,0,0,0,2,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 14:04:19,Rebeca,22,7157,0,0,0,0,0,0,No,Nothing,,1,1,0,3,2,0,Nothing,No,0,2,,Blue
+21/10/2023 14:04:49,clarisa,22,3759,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 14:12:42,sofy,23,589,0,0,1,0,0,0,Si,Nothing,,0,0,4,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 14:12:44,leah,23,4079,0,0,0,0,0,0,Si,Engaged (Balanced),,0,0,1,0,0,1,Engaged,Si,0,1,,Blue
+21/10/2023 14:12:46,mangie,23,4415,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,90,2,más esquizofrenico que yo,Red
+21/10/2023 14:12:48,Rebeca,23,7102,1,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,2,Engaged,Si,0,2,,Blue
+21/10/2023 14:12:55,karla,23,3128,0,0,0,1,0,0,No,Nothing,,1,1,0,3,0,0,Nothing,No,0,3,,Red
+21/10/2023 14:13:06,clarisa,23,7415,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,0,Nothing,Si,60,2,,Blue
+21/10/2023 15:15:03,Rebeca,24,696.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,Nothing,No,100,2,,Blue
+21/10/2023 15:15:09,karla,24,4322,0,0,0,1,0,0,Si,Nothing,,0,0,1,1,1,0,Engaged,No,0,3,,Red
+21/10/2023 15:15:12,mangie,24,4414,0,0,1,1,0,0,Si,Engaged (Balanced),,1,1,2,3,2,1,Engaged,Si,0,3,,Red
+21/10/2023 15:15:14,sofy,24,5199.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,1,,Red
+21/10/2023 15:15:15,leah,24,3512,1,0,0,1,0,0,Si,Nothing,,0,1,0,1,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 15:15:56,clarisa,24,2659,0,0,0,1,0,0,No,Engaged (Balanced),,2,0,0,2,2,1,"Docked  (Not touching the ground, CS not Balanced)",No,0,2,,Blue
+21/10/2023 15:23:34,mangie,25,5124,0,0,0,0,0,0,No,Nothing,,0,0,4,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:23:40,leah,25,9282,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 15:23:42,sofy,25,8006,0,0,0,0,0,0,No,"Docked (Not touching the ground, but not balanced)",,0,0,5,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:23:58,clarisa,25,8006.2,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,110,2,,Blue
+21/10/2023 15:24:03,karla,25,3925,0,0,1,0,0,0,No,Engaged (Balanced),,0,0,1,0,0,0,Nothing,Si,11,3,,Red
+21/10/2023 15:24:04,Rebeca,25,5887,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,No hizo nada ,Blue
+21/10/2023 15:30:26,karla,26,1148.2,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,1,0,Nothing,No,0,3,Se les volteo el robot y se le salio la bateria ,Red
+21/10/2023 15:30:46,leah,26,7157,0,1,0,1,0,0,Si,Nothing,,0,0,0,4,0,0,Engaged,Si,0,3,,Blue
+21/10/2023 15:30:48,sofy,26,599,0,0,0,0,0,1,Si,Nothing,,0,0,3,0,1,2,Engaged,Si,0,2,,Red
+21/10/2023 15:30:49,mangie,26,4414.2,0,0,1,1,0,0,Si,Nothing,,2,3,3,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:30:50,Rebeca,25,5887,1,0,0,0,0,0,No,Nothing,,0,0,0,0,0,1,Nothing,No,30,2,,Blue
+21/10/2023 15:31:30,clarisa,25,4276,1,0,0,0,0,0,Si,Nothing,,1,0,2,0,0,0,Nothing,Si,30,2,,Blue
+21/10/2023 15:38:17,karla,27,4,0,0,0,0,1,0,Si,Nothing,,0,1,2,0,0,0,Nothing,No,0,2,,Red
+21/10/2023 15:38:23,Rebeca,27,3863,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,0,3,,Blue
+21/10/2023 15:38:24,sofy,27,3128.2,0,0,0,1,0,0,No,Nothing,,0,0,0,1,0,0,Engaged,Si,0,3,,Red
+21/10/2023 15:38:25,leah,27,973,0,0,0,0,0,0,Si,Engaged (Balanced),,1,0,0,2,1,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,3,,Blue
+21/10/2023 15:38:33,delfin,27,1148,0,0,0,0,0,0,No,Nothing,,0,0,6,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:39:02,clarisa,27,6017,0,0,0,1,0,0,Si,Nothing,,0,1,0,0,1,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 15:46:15,leah,28,1138,0,0,0,0,0,0,Si,Engaged (Balanced),,2,0,0,4,0,1,Engaged,Si,0,3,,Blue
+21/10/2023 15:46:23,sofy,28,2102,0,0,0,0,0,0,No,Nothing,,0,0,3,2,0,0,Nothing,Si,6,2,,Red
+21/10/2023 15:46:30,Rebeca,28,3647.2,0,0,1,0,0,0,No,Nothing,,0,0,5,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 15:46:30,delfin,28,3512.2,0,0,0,1,0,0,Si,Nothing,,1,2,1,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:46:36,clarisa,28,359,0,0,0,2,0,0,Si,Nothing,,0,2,2,3,1,1,Engaged,Si,0,2,,Blue
+21/10/2023 15:46:53,karla ,28,5199,1,0,0,0,0,0,Si,Engaged (Balanced),,0,1,3,2,0,1,Engaged,Si,0,3,,Red
+21/10/2023 15:53:11,karla,29,4.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,0,3,No estaba el robot en la cancha ,Red
+21/10/2023 15:53:32,clarisa ,29,6647,0,0,0,0,0,0,No,Nothing,GIRO COMO LOCO JAJAJAJAJAJJA,0,0,0,0,0,0,Nothing,No,0,2,,Blue
+21/10/2023 15:54:17,delfin,29,9084,0,0,1,1,0,0,Si,Nothing,,1,0,6,1,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:54:18,leah,29,5124,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,30,1,no se movio y estava conectado,Blue
+21/10/2023 15:54:36,mangie,29,3759,0,0,0,0,0,0,Si,Nothing,,0,0,4,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 15:55:19,Rebeca,29,1197,0,1,0,0,0,0,Si,Nothing,,1,0,1,1,2,0,Engaged,Si,0,2,Casi se desbalancea y se cae dos veces,Blue
+21/10/2023 16:01:41,karla ,30,3128,0,0,0,1,0,0,Si,Engaged (Balanced),,1,0,3,2,0,0,Engaged,No,0,3,,Red
+21/10/2023 16:01:53,mangie,30,7157,1,0,0,1,0,0,Si,Nothing,,1,0,4,3,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:01:54,Rebeca,30,5887,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:01:56,leah,30,696.2,1,0,0,0,0,0,No,Nothing,,0,3,0,0,0,0,Engaged,Si,0,3,,Blue
+21/10/2023 16:01:58,delfin,30,8006.2,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,0,0,Nothing,No,0,1,40,Red
+21/10/2023 16:03:36,clarisa,30,4322,0,0,0,1,0,0,Si,Nothing,,0,0,0,1,1,1,Engaged,Si,0,2,"Marcaron foul porque se les cayo un cono en el chasis y llevaban otra pieza en la garra, llevarOn dos game pieces a la vez",Blue
+21/10/2023 16:08:22,delfin,31,8006,0,0,0,0,0,0,No,Nothing,No vino,0,0,0,0,0,0,Nothing,No,0,1,No vino,Red
+21/10/2023 16:12:12,karla,31,4079,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,79,3,Estuvo casi todo el match sin moverse ,Red
+21/10/2023 16:12:27,delfin,31,8006,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,1,Nothing,Si,0,2,,Red
+21/10/2023 16:12:32,Rebeca,31,3647.2,0,0,1,0,0,0,Si,Nothing,,0,0,5,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:12:45,leah,31,6017,0,0,0,0,0,0,No,Nothing,,0,0,0,1,0,4,Nothing,Si,0,3,nosotros!!!!!!!!,Blue
+21/10/2023 16:13:33,mangie,31,7157,0,0,0,0,0,0,No,Nothing,,1,1,0,1,2,0,Engaged,Si,0,2,,Red
+21/10/2023 16:13:36,clarisa,31,599,0,0,1,0,0,0,Si,Nothing,,0,0,0,0,0,4,Engaged,Si,0,2,,Blue
+21/10/2023 16:21:53,karla,32,3128.2,0,0,0,1,0,0,Si,"Docked (Not touching the ground, but not balanced)",,1,0,1,3,0,0,Nothing,No,30,3,,Red
+21/10/2023 16:22:01,leah,32,3759,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,60,2,creo q se desconecto ,Blue
+21/10/2023 16:22:01,Rebeca,32,696,0,0,0,0,0,1,Si,Nothing,,0,0,1,0,0,0,Engaged,Si,28,2,,Blue
+21/10/2023 16:22:15,delfin,32,3512,0,0,0,0,0,0,Si,Nothing,La agarro,1,0,2,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:22:26,clarisa,32,7102,1,0,0,0,0,0,No,Nothing,,2,1,0,0,2,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:23:11,mangie,32,7415,0,0,0,0,0,0,Si,Nothing,,1,0,2,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:32:16,karla ,33,2659,0,0,0,1,0,0,No,Engaged (Balanced),,1,2,3,3,0,1,Nothing,Si,0,3,,Red
+21/10/2023 16:32:24,mangie,33,4415,0,0,0,1,0,0,Si,Nothing,,0,0,3,3,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:32:38,leah,34,4276,1,0,0,0,0,0,Si,Engaged (Balanced),,0,1,1,0,0,0,Nothing,Si,0,1,,Blue
+21/10/2023 16:32:43,delfin,33,6647,0,0,0,0,0,0,No,Nothing,,1,0,4,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:33:11,clarisa,33,4,0,0,0,0,1,0,Si,Nothing,,0,1,0,0,2,1,Nothing,No,0,2,,Blue
+21/10/2023 16:33:21,Rebeca,33,3925,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,30,2,Casi se desbalancea ,Blue
+21/10/2023 16:40:49,karla ,34,3863,0,0,0,0,0,0,No,Nothing,,0,0,0,1,1,1,Nothing,No,0,2,,Red
+21/10/2023 16:40:59,mangie,34,9282,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,1,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 16:41:01,leah,34,359,0,0,0,1,0,0,Si,Engaged (Balanced),,0,0,0,4,0,2,Engaged,Si,0,3,,Blue
+21/10/2023 16:41:03,delfin,34,599.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,Nothing,Si,0,1,Defensa a la defensa,Red
+21/10/2023 16:41:35,clarisa,34,4.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,0,1,Se defendio del defensa 🤪,Blue
+21/10/2023 16:42:31,Rebeca,34,5199,1,0,0,0,0,0,Si,Nothing,,1,1,4,1,2,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Blue
+21/10/2023 16:49:01,leah,35,3647,0,0,0,0,0,0,No,Nothing,,1,1,0,1,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:49:03,mangie,35,4415,0,0,0,0,0,0,No,Nothing,,1,0,0,4,3,0,Engaged,Si,0,2,,Red
+21/10/2023 16:49:07,Rebeca,35,1138,0,0,0,1,0,0,No,Engaged (Balanced),,1,0,1,2,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:49:09,delfin,35,4414.2,1,0,0,0,0,0,Si,Engaged (Balanced),,0,2,3,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 16:49:28,clarisa,35,1148,0,0,0,0,0,0,No,Nothing,,0,0,3,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:49:57,karla ,35,589,0,0,0,0,0,0,No,Nothing,,0,0,0,2,0,0,Engaged,No,0,3,,Red
+21/10/2023 16:57:06,delfin,36,3512.2,0,0,0,0,0,1,Si,Nothing,,0,0,0,0,0,0,Engaged,Si,3,1,,Red
+21/10/2023 16:57:10,leah,36,7415,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 16:57:11,mangie,36,1148.2,0,0,0,0,0,0,Si,Nothing,,0,1,1,0,0,0,Nothing,Si,0,2,,Red
+21/10/2023 16:57:24,clarisa,36,973,1,0,0,1,0,0,Si,Engaged (Balanced),,1,0,1,3,2,0,Nothing,Si,0,2,,Blue
+21/10/2023 16:57:49,karla ,36,1197,1,0,0,0,0,0,Si,"Docked (Not touching the ground, but not balanced)",,0,0,0,1,0,0,Nothing,No,0,3,Se les atoro un cono x la parte de abajo del robot ,Red
+21/10/2023 17:00:13,Rebeca,36,2102,0,0,0,0,0,0,No,Nothing,,0,0,6,0,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 17:06:07,karla,37,5887,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",No,21,2,,Red
+21/10/2023 17:06:21,delfin,37,359,1,0,0,1,0,0,Si,Engaged (Balanced),,0,1,0,3,5,1,Nothing,Si,0,2,,Red
+21/10/2023 17:06:23,mangie,37,3512,0,0,0,0,0,0,No,Nothing,,1,0,2,2,2,0,Engaged,Si,0,2,,Red
+21/10/2023 17:06:24,Rebeca,37,9084,0,0,1,1,0,0,Si,Nothing,,2,0,0,3,0,0,Nothing,No,0,2,Se desbalanceó y se volteó ,Blue
+21/10/2023 17:06:27,leah,37,4,0,0,0,0,1,0,Si,"Docked (Not touching the ground, but not balanced)",,0,0,0,0,2,0,Engaged,Si,0,2,intento ayudar al q se volteo ,Blue
+21/10/2023 17:06:29,clarisa,37,3647.2,0,0,0,0,0,0,Si,Nothing,,0,0,6,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 17:15:47,clarisa,38,696.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 17:15:51,mangie,38,7102,1,0,0,0,0,0,Si,"Docked (Not touching the ground, but not balanced)",,0,0,1,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 17:15:54,karla,38,3647,0,0,0,1,0,0,Si,Nothing,,1,0,0,3,1,0,Engaged,No,0,3,,Red
+21/10/2023 17:16:25,delfin,38,4276,0,0,0,0,0,0,Si,Nothing,,1,1,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 17:16:35,delfin,38,5199,0,0,0,0,0,0,No,Nothing,,1,0,1,4,0,0,Engaged,Si,0,2,*,Blue
+21/10/2023 17:21:46,clarisa,39,6647.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,No se presento,Red
+21/10/2023 17:26:10,karla ,39,1138,0,0,0,1,0,0,No,Nothing,,2,0,1,2,2,1,"Docked  (Not touching the ground, CS not Balanced)",No,0,3,,Red
+21/10/2023 17:26:31,delfin,39,1148.2,0,0,0,0,0,0,Si,Nothing,,0,0,4,0,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 17:26:32,delfin,39,5124,0,0,0,1,0,0,No,Nothing,,0,0,1,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 17:26:35,Rebeca,39,2659,0,0,0,1,0,0,No,Engaged (Balanced),,2,0,1,3,0,0,Nothing,No,0,2,"Casi se desbalancea, al principio solo estaba acercando cubos",Blue
+21/10/2023 17:27:24,mangie,39,1197,0,0,0,0,0,0,Si,Nothing,0,0,0,2,4,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 17:33:43,mangie,40,6017,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,1,0,Engaged,Si,0,3,,Red
+21/10/2023 17:33:45,Rebeca,40,2102,0,0,0,0,0,0,No,Nothing,,2,1,2,0,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 17:33:47,delfin,40,3925,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,0,1,,Blue
+21/10/2023 17:33:48,delfin,40,4414,0,0,0,1,0,0,Si,Engaged (Balanced),,1,0,0,2,0,3,Engaged,Si,0,2,,Blue
+21/10/2023 17:33:53,karla,40,4414,0,0,0,0,0,0,No,Nothing,,1,0,0,1,0,1,Engaged,No,0,2,,Blue
+21/10/2023 17:34:26,clarisa,40,3128.2,0,0,0,1,0,0,Si,Nothing,,5,0,0,4,0,0,Engaged,Si,0,2,,Red
+21/10/2023 17:41:55,karla,41,589,0,0,1,0,0,0,Si,Nothing,,0,0,3,0,0,0,Nothing,Si,0,3,,Red
+21/10/2023 17:41:58,Rebeca,41,8006,0,0,0,0,0,0,No,Nothing,,0,0,3,0,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 17:42:13,delfin,41,599.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,Engaged,Si,0,1,Entraron a la loding zone enemigo y se desoriento,Blue
+21/10/2023 17:42:13,mangie,41,4079,0,0,0,0,0,0,Si,Nothing,,0,0,1,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 17:42:21,clarisa,41,7157,0,0,0,0,0,1,Si,Engaged (Balanced),,2,1,1,4,2,0,Engaged,Si,0,2,,Red
+21/10/2023 17:42:28,delfin,41,3759,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,No,60,1,,Blue
+21/10/2023 17:49:46,karla ,42,696,1,0,0,0,0,0,Si,Nothing,,1,1,0,2,3,0,Engaged,No,0,3,,Red
+21/10/2023 17:49:50,mangie,42,3863,0,0,0,0,0,0,No,"Docked (Not touching the ground, but not balanced)",,0,0,0,0,0,1,Engaged,Si,0,1,se tardó un minuto en poner un cono (y fallo)...,Red
+21/10/2023 17:50:39,Rebeca,42,4322,0,0,0,1,0,0,No,Nothing,,0,0,1,2,0,3,Engaged,Si,0,2,,Blue
+21/10/2023 17:50:46,clarisa,42,6647,1,0,0,0,0,0,Si,Nothing,,3,0,0,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 17:50:48,delfin,42,973,0,0,1,1,0,0,Si,Engaged (Balanced),,1,0,1,3,0,2,Nothing,Si,0,2,,Blue
+21/10/2023 17:50:49,delfin,42,8006.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,50,1,,Blue
+21/10/2023 17:57:49,Rebeca,43,3512.2,0,1,0,1,0,0,No,Nothing,,0,0,3,1,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 17:57:53,delfin,43,3128,0,0,0,1,0,0,No,Engaged (Balanced),,1,0,3,2,0,0,Engaged,Si,0,2,avientan cubos,Blue
+21/10/2023 17:57:55,mangie,43,4415,0,0,0,0,0,1,Si,Nothing,,0,0,3,2,0,0,Engaged,Si,0,2,,Red
+21/10/2023 17:58:12,clarisa ,43,599,1,0,0,0,0,0,Si,Engaged (Balanced),,1,0,0,3,3,2,Engaged,Si,0,2,,Red
+21/10/2023 17:58:26,karla ,43,4.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,38,2,Se paro en medio de la linea blanca ,Red
+21/10/2023 18:06:45,mangie,44,7415,0,0,1,0,0,0,Si,Nothing,,0,0,3,1,0,0,Engaged,Si,0,2,,Red
+21/10/2023 18:06:50,Rebeca,44,4079,0,0,0,0,0,0,No,Engaged (Balanced),,0,1,1,0,0,2,Engaged,Si,0,2,,Blue
+21/10/2023 18:06:56,delfin,44,696.2,0,0,1,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,0,1,,Blue
+21/10/2023 18:06:57,delfin,44,4414,0,0,0,2,0,1,Si,Nothing,,1,0,1,0,2,1,Engaged,Si,0,2,,Blue
+21/10/2023 18:07:19,karla,44,359,1,1,0,1,0,0,Si,Nothing,,1,1,1,3,3,0,Nothing,Si,0,3,,Red
+21/10/2023 18:07:45,clarisa ,44,9084,0,0,0,1,0,0,Si,Nothing,,0,0,5,0,0,1,Engaged,Si,0,2,,Red
+21/10/2023 18:14:13,Rebeca,45,4276,1,0,0,0,0,0,Si,Engaged (Balanced),,1,0,4,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:14:13,delfin,45,2102,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,Si,120,1,,Blue
+21/10/2023 18:14:18,delfin,45,3512,0,0,0,1,0,0,Si,Nothing,,0,0,0,3,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 18:14:21,clarisa,45,8006,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,1,"Cochiiitaa, intenta defender PERO NO SIRVE",Red
+21/10/2023 18:15:04,karla ,45,973,0,0,0,0,0,0,No,Nothing,,1,0,2,3,0,0,Nothing,Si,0,3,,Red
+21/10/2023 18:22:14,clarisa,46,3863,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,0,2,No se presento,Red
+21/10/2023 18:23:14,karla ,46,7102,0,0,0,0,0,0,No,Engaged (Balanced),,0,0,3,0,0,0,Engaged,No,0,3,,Red
+21/10/2023 18:23:33,mangie,46,3925,0,0,0,0,0,0,Si,Nothing,,0,1,0,0,1,1,Nothing,No,0,2,,Red
+21/10/2023 18:24:11,delfin,46,3647,0,0,0,0,0,1,Si,Nothing,,0,0,3,0,0,0,Nothing,No,0,2,,Blue
+21/10/2023 18:24:11,delfin,46,3512.2,0,0,0,1,0,0,Si,Nothing,,1,0,2,2,1,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:24:46,Rebeca,46,6647.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,4,3,,Blue
+21/10/2023 18:32:38,mangie,47,2659,0,0,0,0,0,0,Si,Engaged (Balanced),,2,0,3,3,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 18:32:44,Rebeca,47,589,0,0,0,0,0,0,Si,Nothing,,0,0,2,0,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 18:32:44,karla ,47,4322,0,0,0,1,0,0,Si,Nothing,,0,0,1,1,0,3,"Docked  (Not touching the ground, CS not Balanced)",No,0,3,,Red
+21/10/2023 18:32:50,clarisa,47,4.2,0,0,0,0,0,0,No,Nothing,,0,0,1,0,0,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,1,Lo intento pero mala defensa jaja,Red
+21/10/2023 18:32:53,delfin,47,3647.2,0,0,0,1,0,0,Si,Nothing,,0,0,5,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:32:54,delfin,47,3128.2,0,0,0,1,0,0,No,Nothing,,0,0,0,4,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:42:36,karla ,48,5199,1,0,0,0,0,0,No,Engaged (Balanced),,0,0,3,3,0,0,Engaged,No,0,3,,Red
+21/10/2023 18:42:37,clarisa ,48,6647,1,0,0,0,0,0,No,Nothing,,0,1,1,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 18:42:38,mangie,48,3759,0,0,0,0,0,1,Si,Nothing,,0,0,0,0,0,1,Nothing,No,1.15,2,,Red
+21/10/2023 18:42:52,Rebeca,48,5887,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 18:43:06,delfin,48,1148.2,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,3,1,Nothing,No,0,2,,Blue
+21/10/2023 18:43:08,delfin,48,3128,0,0,0,1,0,0,No,Engaged (Balanced),,1,0,3,1,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 18:52:56,mangie,49,8006.2,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Engaged,Si,0,1,,Red
+21/10/2023 18:53:01,Rebeca,49,4414.2,0,0,0,0,0,0,Si,Engaged (Balanced),,2,1,3,0,0,0,Engaged,Si,0,2,Lanzan los cubos como si tuvieran catapulta,Blue
+21/10/2023 18:53:04,karla ,49,4,0,0,0,0,1,0,Si,Nothing,,0,0,0,0,0,0,Engaged,No,0,3,Se fue de frente bajandose del dock y ya no se pudo levantar ,Red
+21/10/2023 18:53:07,delfin,49,1148,0,0,0,0,0,0,No,Nothing,,0,0,1,0,3,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:53:08,delfin,49,7157,0,1,0,1,0,0,Si,Nothing,,0,0,0,5,2,0,Engaged,Si,0,2,,Blue
+21/10/2023 18:53:22,clarisa,49,5124,0,0,0,0,0,0,No,Nothing,,0,0,2,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 19:01:29,mangie,50,1138,0,0,0,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,Si,0,3,,Red
+21/10/2023 19:01:55,delfin,50,1197,0,0,0,1,0,0,Si,Nothing,,0,0,2,1,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 19:01:56,delfin,50,6017,0,0,0,1,0,0,No,Engaged (Balanced),,2,0,0,0,0,1,Nothing,Si,0,2,,Blue
+21/10/2023 19:02:02,clarisa,50,696,0,1,1,0,0,0,Si,Nothing,,2,2,4,0,0,0,Nothing,Si,0,2,,Red
+21/10/2023 19:02:31,karla ,50,4415,0,0,0,1,0,0,No,Nothing,,0,0,1,1,1,0,Engaged,No,0,3,,Red
+21/10/2023 19:02:55,Rebeca,50,599.2,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,2,,Blue
+21/10/2023 19:08:17,karla ,51,599,1,0,0,0,0,0,No,Engaged (Balanced),,1,1,0,3,0,0,Engaged,No,0,3,,Red
+21/10/2023 19:08:36,mangie,51,3759,0,0,1,0,0,0,Si,Nothing,,0,0,0,0,0,0,Nothing,Si,0,1,,Red
+21/10/2023 19:08:48,clarisa ,51,973,1,0,0,1,0,0,Si,Nothing,,0,1,2,2,2,1,Nothing,Si,0,2,,Red
+21/10/2023 19:09:00,delfin,51,3863,0,0,0,0,0,0,No,Nothing,,1,0,0,0,2,0,Engaged,Si,0,1,,Blue
+21/10/2023 19:09:04,delfin,51,5199,0,0,0,0,0,0,Si,Engaged (Balanced),,1,1,2,2,1,0,Nothing,Si,0,2,,Blue
+21/10/2023 19:12:31,Rebeca,51,2659,0,0,0,1,0,1,Si,Nothing,,1,1,0,3,2,0,Engaged,Si,0,2,,Blue
+21/10/2023 19:15:18,karla,52,1148,0,0,0,0,0,0,No,Nothing,,0,0,0,3,0,0,Engaged,No,0,3,,Red
+21/10/2023 19:15:31,mangie,52,4276,0,0,0,0,0,0,Si,Engaged (Balanced),,1,0,5,0,0,0,Nothing,Si,0,2,,Red
+21/10/2023 19:15:43,delfin,52,4079,0,0,0,0,0,0,No,Engaged (Balanced),,0,1,1,1,0,1,Engaged,Si,0,1,,Blue
+21/10/2023 19:15:45,delfin,52,359,1,0,0,1,1,0,Si,Nothing,,1,1,3,3,2,0,Nothing,Si,0,2,,Blue
+21/10/2023 19:15:51,Rebeca,52,4322,0,0,0,1,0,0,Si,Nothing,,0,0,1,1,0,1,Engaged,Si,0,2,,Blue
+21/10/2023 19:16:10,clarisa,52,5124,0,0,1,0,0,0,No,Nothing,,0,0,3,0,0,0,Engaged,Si,0,2,,Red
+21/10/2023 19:22:15,karla ,53,4,0,0,0,0,0,0,Si,Nothing,,0,0,1,0,1,0,"Docked  (Not touching the ground, CS not Balanced)",No,0,3,,Red
+21/10/2023 19:22:23,mangie,53,1148.2,0,0,0,1,0,0,No,"Docked (Not touching the ground, but not balanced)",,1,0,2,2,2,0,"Docked  (Not touching the ground, CS not Balanced)",Si,0,2,,Red
+21/10/2023 19:22:39,Rebeca,53,9084,0,0,0,1,0,0,Si,Nothing,,2,0,0,1,0,2,Engaged,Si,0,2,,Blue
+21/10/2023 19:22:41,delfin,53,3128,0,0,0,1,0,0,No,Engaged (Balanced),,1,0,5,2,0,0,Nothing,Si,0,2,,Blue
+21/10/2023 19:22:41,delfin,53,8006,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Engaged,Si,0,1,,Blue
+21/10/2023 19:22:43,clarisa,52,1138,0,0,0,1,0,0,No,Nothing,,2,0,0,4,2,2,Nothing,Si,0,2,,Red
+21/10/2023 19:25:38,Rebeca,43,1148,0,0,0,0,0,0,No,Nothing,,0,0,0,0,0,0,Nothing,No,120,2,No vino,Blue

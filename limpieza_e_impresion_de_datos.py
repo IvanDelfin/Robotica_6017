@@ -11,7 +11,7 @@ def obtencion_de_datos():
     return dfScouting
 
 def limpieza_y_tranformación(dfScouting):
-    dfScouting = dfScouting.drop(["Marca temporal", "Scouter", "Auto Comentarios Extra", "TeleOp Comentarios Extras"], axis=1)
+    dfScouting = dfScouting.drop(["Marca temporal", "Scouter", "Auto Comentarios Extra", "TeleOp Comentarios Extras", 'Disconnection Time '], axis=1)
     dictPuntos = {"Si":1, "No":0, "Docked (Not touching the ground, but not balanced)":8, "Engaged (Balanced)":12, "Nothing":0, "Engaged":10, "Docked  (Not touching the ground, CS not Balanced)":6}
     dfScouting.replace(dictPuntos, inplace=True)
     dfScouting.fillna(0, inplace=True)
