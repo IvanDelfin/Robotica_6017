@@ -53,10 +53,10 @@ def obtencion_de_datos_match():
     return final_df
     
 def save_match_csv(match_df):
-    match_df.to_csv("./API_Output/Los_Matches.csv")
+    match_df.to_csv("./API_Output/Los_Matches.csv", index=False, encoding="utf-8-sig")
 
 def save_score_of_matches(score_details_df, match):
-    score_details_df.to_csv(f"./API_Output/Los_Score_Match_{match}.csv")
+    score_details_df.to_csv(f"./API_Output/Los_Score_Match_{match}.csv", index=False, encoding="utf-8-sig")
 
 #Main
 print(f"Bienvenido a la Clean_Scouter_Cyberius\n{'='*30}")
